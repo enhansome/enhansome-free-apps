@@ -1,0 +1,3038 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BlackHole",
+          "description": "Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T23:33:14Z",
+            "owner": "ExistentialAudio",
+            "repo": "BlackHole",
+            "stars": 19550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ambie",
+          "description": "Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-06T06:11:09Z",
+            "owner": "jenius-apps",
+            "repo": "ambie",
+            "stars": 2223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BluetoothHandsFreeToggle",
+          "description": "Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-26T09:06:41Z",
+            "owner": "Avazbek22",
+            "repo": "BluetoothHandsFreeToggle",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Furnace",
+          "description": "Multi-system chiptune tracker. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T21:25:15Z",
+            "owner": "tildearrow",
+            "repo": "furnace",
+            "stars": 3776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MilkyTracker",
+          "description": "Cross platform XM tracker. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-22T13:14:21Z",
+            "owner": "milkytracker",
+            "repo": "MilkyTracker",
+            "stars": 2084
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stargate DAW",
+          "description": "Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-21T17:51:22Z",
+            "owner": "stargatedaw",
+            "repo": "stargate",
+            "stars": 869
+          }
+        }
+      ],
+      "title": "Music Production"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zen Browser",
+          "description": "Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T22:29:26Z",
+            "owner": "zen-browser",
+            "repo": "desktop",
+            "stars": 43899
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ungoogled-chromium",
+          "description": "Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:38:26Z",
+            "owner": "ungoogled-software",
+            "repo": "ungoogled-chromium",
+            "stars": 27385
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromium",
+          "description": "Browser project behind Chrome. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T04:11:56Z",
+            "owner": "chromium",
+            "repo": "chromium",
+            "stars": 24494
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brave",
+          "description": "Privacy-focused and fast browser. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T04:03:29Z",
+            "owner": "brave",
+            "repo": "brave-browser",
+            "stars": 23331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qutebrowser",
+          "description": "Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:52:15Z",
+            "owner": "qutebrowser",
+            "repo": "qutebrowser",
+            "stars": 11643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mullvad Browser",
+          "description": "Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-23T09:12:57Z",
+            "owner": "mullvad",
+            "repo": "mullvad-browser",
+            "stars": 2472
+          }
+        }
+      ],
+      "title": "Browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Communication"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ElectronMail",
+          "description": "Electron-based desktop client for ProtonMail. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T06:05:22Z",
+            "owner": "vladimiry",
+            "repo": "ElectronMail",
+            "stars": 1676
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Eppie Mail",
+          "description": "Open-source email client with local AI agents and full support for Gmail, Outlook, and Proton Mail. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:32:52Z",
+            "owner": "Eppie-io",
+            "repo": "Eppie-App",
+            "stars": 408
+          }
+        }
+      ],
+      "title": "Email Clients"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Customize"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ExplorerPatcher",
+          "description": "Restores and enhances the classic taskbar and system elements. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-06T12:44:31Z",
+            "owner": "valinet",
+            "repo": "ExplorerPatcher",
+            "stars": 33598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow Launcher",
+          "description": "Quick file search and app launcher like Spotlight. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:12:12Z",
+            "owner": "Flow-Launcher",
+            "repo": "Flow.Launcher",
+            "stars": 15352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hidden Bar",
+          "description": "Simple app to organize and declutter your menu bar. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-15T19:25:30Z",
+            "owner": "dwarvesf",
+            "repo": "hidden",
+            "stars": 14549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sophia Script for Windows",
+          "description": "The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-12T14:39:14Z",
+            "owner": "farag2",
+            "repo": "Sophia-Script-for-Windows",
+            "stars": 9654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windhawk",
+          "description": "Customization marketplace for Windows and programs. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T19:36:31Z",
+            "owner": "ramensoftware",
+            "repo": "windhawk",
+            "stars": 8673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "noMeiryoUI",
+          "description": "Tools to freely change system fonts. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T08:49:19Z",
+            "owner": "Tatsu-syo",
+            "repo": "noMeiryoUI",
+            "stars": 6608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroBar",
+          "description": "Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T04:49:16Z",
+            "owner": "dremin",
+            "repo": "RetroBar",
+            "stars": 4316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModernFlyouts",
+          "description": "Replaces default flyouts with customizable modern ones. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-11-17T02:39:02Z",
+            "owner": "ModernFlyouts-Community",
+            "repo": "ModernFlyouts",
+            "stars": 4065
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HideVolumeOSD",
+          "description": "Hides the Windows volume bar. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-05T16:46:49Z",
+            "owner": "UnlimitedStack",
+            "repo": "HideVolumeOSD",
+            "stars": 484
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaneBar",
+          "description": "Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T07:00:36Z",
+            "owner": "sane-apps",
+            "repo": "SaneBar",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaneClick",
+          "description": "Finder toolbar customizer for adding quick actions. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-03T19:11:46Z",
+            "owner": "sane-apps",
+            "repo": "SaneClick",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thaw",
+          "description": "Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-05T10:53:46Z",
+            "owner": "stonerl",
+            "repo": "Thaw",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "System Customization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WinDynamicDesktop",
+          "description": "Port of macOS Mojave Dynamic Desktop feature to Windows. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T08:05:15Z",
+            "owner": "t1m0thyj",
+            "repo": "WinDynamicDesktop",
+            "stars": 4995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komorebi",
+          "description": "Animated wallpaper manager. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2025-07-21T01:17:17Z",
+            "owner": "christianloopp",
+            "repo": "komorebi",
+            "stars": 3750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Variety",
+          "description": "Wallpaper changer with features for downloading and managing wallpapers. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T04:35:01Z",
+            "owner": "varietywalls",
+            "repo": "variety",
+            "stars": 1675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sucrose",
+          "description": "Versatile wallpaper engine bringing life to your desktop with a wide range of interactive themes. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:44:42Z",
+            "owner": "Taiizor",
+            "repo": "Sucrose",
+            "stars": 1464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenPlay",
+          "description": "Wallpaper and widget engine. 🪟 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-27T16:15:31Z",
+            "owner": "kelteseth",
+            "repo": "ScreenPlay",
+            "stars": 250
+          }
+        }
+      ],
+      "title": "Wallpaper Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ollama",
+          "description": "Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T23:45:56Z",
+            "owner": "ollama",
+            "repo": "ollama",
+            "stars": 178391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghostty",
+          "description": "Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2026-08-13T02:34:02Z",
+            "owner": "ghostty-org",
+            "repo": "ghostty",
+            "stars": 59570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WezTerm",
+          "description": "GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T06:01:57Z",
+            "owner": "wezterm",
+            "repo": "wezterm",
+            "stars": 28325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Desktop",
+          "description": "Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T13:48:36Z",
+            "owner": "desktop",
+            "repo": "desktop",
+            "stars": 21754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iTerm2",
+          "description": "Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-08T07:13:09Z",
+            "owner": "gnachman",
+            "repo": "iTerm2",
+            "stars": 17930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tura",
+          "description": "Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T00:33:06Z",
+            "owner": "Tura-AI",
+            "repo": "tura",
+            "stars": 576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TkForge",
+          "description": "Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-27T17:35:51Z",
+            "owner": "Axorax",
+            "repo": "tkforge",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WhereMyTokens",
+          "description": "Windows system tray app for monitoring Claude Code token usage in real time. Displays per-session token counts, costs, context window usage, and rate limits. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T13:12:00Z",
+            "owner": "jeongwookie",
+            "repo": "WhereMyTokens",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "livewinsize",
+          "description": "Visualize window size in pixels and other units. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2024-10-20T07:26:53Z",
+            "owner": "Axorax",
+            "repo": "livewinsize",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevProjex",
+          "description": "Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:06:16Z",
+            "owner": "Avazbek22",
+            "repo": "DevProjex",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Headroom",
+          "description": "Native macOS menu bar app showing Claude Code's session (5h) and weekly (7d) rate-limit usage as a live %, with color-coded alerts, reset countdowns, context window fill, active model name, and session cost. Zero network calls. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-26T21:17:12Z",
+            "owner": "patwalls",
+            "repo": "headroom",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Island",
+          "description": "Status companion for AI coding agents. Shows live session state for Claude Code, Codex, Antigravity, Grok, and Cursor, alerts you when a run is waiting on your turn, and computes quota and cost locally. No account, no telemetry. 🪟 🍎 🟢",
+          "children": []
+        }
+      ],
+      "title": "Developer Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hoppscotch",
+          "description": "Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T13:13:45Z",
+            "owner": "hoppscotch",
+            "repo": "hoppscotch",
+            "stars": 80020
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bruno",
+          "description": "Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T17:34:11Z",
+            "owner": "usebruno",
+            "repo": "bruno",
+            "stars": 46320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insomnia",
+          "description": "Simple API client for REST and GraphQL development. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:51:38Z",
+            "owner": "Kong",
+            "repo": "insomnia",
+            "stars": 39938
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yaak",
+          "description": "An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:52:45Z",
+            "owner": "mountain-loop",
+            "repo": "yaak",
+            "stars": 18983
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mockoon",
+          "description": "Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T06:12:59Z",
+            "owner": "mockoon",
+            "repo": "mockoon",
+            "stars": 8354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cocoa Rest Client",
+          "description": "Native app for testing REST APIs. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2024-10-14T00:29:42Z",
+            "owner": "mmattozzi",
+            "repo": "cocoa-rest-client",
+            "stars": 2368
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SoapUI Open Source",
+          "description": "For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-08T13:49:01Z",
+            "owner": "SmartBear",
+            "repo": "soapui",
+            "stars": 1703
+          }
+        }
+      ],
+      "title": "API Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DB Browser for SQLite",
+          "description": "Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T00:29:56Z",
+            "owner": "sqlitebrowser",
+            "repo": "sqlitebrowser",
+            "stars": 24433
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DearSQL",
+          "description": "Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:21:35Z",
+            "owner": "dunkbing",
+            "repo": "dearsql",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Database"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mitmproxy",
+          "description": "Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T06:07:53Z",
+            "owner": "mitmproxy",
+            "repo": "mitmproxy",
+            "stars": 44679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sniffnet",
+          "description": "Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T18:16:53Z",
+            "owner": "GyulyVGC",
+            "repo": "sniffnet",
+            "stars": 40523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "James",
+          "description": "Proxy for intercepting HTTP/HTTPS requests. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-03T10:58:08Z",
+            "owner": "james-proxy",
+            "repo": "james",
+            "stars": 1438
+          }
+        }
+      ],
+      "title": "Network Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LÖVE",
+          "description": "Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-08T14:09:20Z",
+            "owner": "love2d",
+            "repo": "love",
+            "stars": 8625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ren'Py",
+          "description": "Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ren'Py",
+            "last_commit": "2026-08-13T02:25:18Z",
+            "owner": "renpy",
+            "repo": "renpy",
+            "stars": 6711
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LÖVR",
+          "description": "Simple 3D game engine for Lua, inspired by LÖVE. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T15:18:38Z",
+            "owner": "bjornbytes",
+            "repo": "lovr",
+            "stars": 2581
+          }
+        }
+      ],
+      "title": "Game Engines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lima",
+          "description": "Tool for launching Linux VMs with file sharing and port forwarding. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:46:03Z",
+            "owner": "lima-vm",
+            "repo": "lima",
+            "stars": 21672
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mocker",
+          "description": "Docker-compatible container CLI for macOS built on Apple's Containerization framework. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-09T19:31:46Z",
+            "owner": "us",
+            "repo": "mocker",
+            "stars": 321
+          }
+        }
+      ],
+      "title": "Virtualization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "KOReader",
+          "description": "KOReader is a document viewer for E Ink devices. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-08-12T17:36:14Z",
+            "owner": "koreader",
+            "repo": "koreader",
+            "stars": 28949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Koodo Reader",
+          "description": "EBook reader supporting 15+ formats. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T02:47:14Z",
+            "owner": "koodo-reader",
+            "repo": "koodo-reader",
+            "stars": 27859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calibre",
+          "description": "Powerful e-book manager. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:48:43Z",
+            "owner": "kovidgoyal",
+            "repo": "calibre",
+            "stars": 25626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Readest",
+          "description": "Cross-platform eBook reader with tools. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:27:40Z",
+            "owner": "readest",
+            "repo": "readest",
+            "stars": 23355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sigil",
+          "description": "EPUB editor. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:22:15Z",
+            "owner": "Sigil-Ebook",
+            "repo": "Sigil",
+            "stars": 6923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Naps2",
+          "description": "Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:49:05Z",
+            "owner": "cyanfish",
+            "repo": "naps2",
+            "stars": 4413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IReader",
+          "description": "Free and open source novel reader for Android and Desktop",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-06T16:50:22Z",
+            "owner": "IReaderorg",
+            "repo": "IReader",
+            "stars": 918
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scribus",
+          "description": "Layout and publishing software. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-06T12:08:04Z",
+            "owner": "scribusproject",
+            "repo": "scribus",
+            "stars": 615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iChm",
+          "description": "CHM reader. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2021-02-07T14:22:49Z",
+            "owner": "NSGod",
+            "repo": "ichm",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "E-book"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Stirling-PDF",
+          "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T01:45:59Z",
+            "owner": "Stirling-Tools",
+            "repo": "Stirling-PDF",
+            "stars": 89420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sumatra PDF",
+          "description": "Fast, lightweight PDF reader. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:28:40Z",
+            "owner": "sumatrapdfreader",
+            "repo": "sumatrapdf",
+            "stars": 17316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xournal++",
+          "description": "Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T02:05:27Z",
+            "owner": "xournalpp",
+            "repo": "xournalpp",
+            "stars": 15216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pdfcpu",
+          "description": "A PDF processor written in Go. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:07:51Z",
+            "owner": "pdfcpu",
+            "repo": "pdfcpu",
+            "stars": 8774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF Arranger",
+          "description": "PDF editor for splitting, merging. 🪟 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T06:50:44Z",
+            "owner": "pdfarranger",
+            "repo": "pdfarranger",
+            "stars": 5778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qpdf",
+          "description": "A content-preserving PDF document transformer. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-09T20:05:41Z",
+            "owner": "qpdf",
+            "repo": "qpdf",
+            "stars": 5309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDFsam",
+          "description": "Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T01:05:01Z",
+            "owner": "torakiki",
+            "repo": "pdfsam",
+            "stars": 4536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MuPDF",
+          "description": "Powerful PDF viewer. 🪟 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T15:04:56Z",
+            "owner": "ArtifexSoftware",
+            "repo": "mupdf",
+            "stars": 2913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Okular",
+          "description": "Universal document viewer by KDE. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:29:23Z",
+            "owner": "KDE",
+            "repo": "okular",
+            "stars": 1461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skim",
+          "description": "PDF viewer for annotation. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2020-12-09T07:01:23Z",
+            "owner": "JackieXie168",
+            "repo": "skim",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qpdfview",
+          "description": "Tabbed document viewer. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2019-03-05T18:44:58Z",
+            "owner": "bendikro",
+            "repo": "qpdfview",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "PDF Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Joplin",
+          "description": "Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:20:59Z",
+            "owner": "laurent22",
+            "repo": "joplin",
+            "stars": 55925
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Logseq",
+          "description": "Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-13T02:08:33Z",
+            "owner": "logseq",
+            "repo": "logseq",
+            "stars": 44423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trilium Notes",
+          "description": "Organize your thoughts. Build your personal knowledge base. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:35:10Z",
+            "owner": "TriliumNext",
+            "repo": "Trilium",
+            "stars": 37390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xournal++",
+          "description": "Take handwritten notes with ease. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T02:05:27Z",
+            "owner": "xournalpp",
+            "repo": "xournalpp",
+            "stars": 15216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RNote",
+          "description": "Sketch and take handwritten notes. . 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T19:23:10Z",
+            "owner": "flxzt",
+            "repo": "rnote",
+            "stars": 11540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simplenote",
+          "description": "Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T19:30:46Z",
+            "owner": "Automattic",
+            "repo": "simplenote-electron",
+            "stars": 5256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bangle.io",
+          "description": "Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T20:09:32Z",
+            "owner": "bangle-io",
+            "repo": "bangle-io",
+            "stars": 1230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fylepad",
+          "description": "Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-09T07:21:44Z",
+            "owner": "imrofayel",
+            "repo": "fylepad",
+            "stars": 305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plumio",
+          "description": "Privacy-first, open-source, self-hostable notes-taking app. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:07:09Z",
+            "owner": "albertasaftei",
+            "repo": "plumio",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qnote",
+          "description": "Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T17:28:33Z",
+            "owner": "Omibranch",
+            "repo": "qnote",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inkless",
+          "description": "Minimal, shortcut based app to take notes and use for light coding. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-26T09:53:07Z",
+            "owner": "Axorax",
+            "repo": "inkless",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Knopo",
+          "description": "Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T09:07:57Z",
+            "owner": "alkalim",
+            "repo": "Knopo",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "Note Taking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:09:50Z",
+            "owner": "microsoft",
+            "repo": "vscode",
+            "stars": 188641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neovim",
+          "description": "Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-13T03:52:28Z",
+            "owner": "neovim",
+            "repo": "neovim",
+            "stars": 101772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zed",
+          "description": "High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:19:16Z",
+            "owner": "zed-industries",
+            "repo": "zed",
+            "stars": 88529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atom",
+          "description": "Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-03T10:49:48Z",
+            "owner": "atom",
+            "repo": "atom",
+            "stars": 60797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helix",
+          "description": "Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T23:23:12Z",
+            "owner": "helix-editor",
+            "repo": "helix",
+            "stars": 45809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim",
+          "description": "Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2026-08-12T20:24:13Z",
+            "owner": "vim",
+            "repo": "vim",
+            "stars": 40737
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lapce",
+          "description": "Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-15T11:27:37Z",
+            "owner": "lapce",
+            "repo": "lapce",
+            "stars": 38735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VSCodium",
+          "description": "Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T12:43:33Z",
+            "owner": "VSCodium",
+            "repo": "vscodium",
+            "stars": 32800
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micro",
+          "description": "Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:28:46Z",
+            "owner": "micro-editor",
+            "repo": "micro",
+            "stars": 29324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad++",
+          "description": "Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T00:24:37Z",
+            "owner": "notepad-plus-plus",
+            "repo": "notepad-plus-plus",
+            "stars": 28992
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeEdit",
+          "description": "Native macOS editor with live preview, Git integration, and Markdown support. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-04T20:03:00Z",
+            "owner": "CodeEditApp",
+            "repo": "CodeEdit",
+            "stars": 22980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextMate",
+          "description": "Editor with project management, language bundles, and customizable macros. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C++",
+            "last_commit": "2024-05-18T11:00:21Z",
+            "owner": "textmate",
+            "repo": "textmate",
+            "stars": 14577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LightTable",
+          "description": "Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Clojure",
+            "last_commit": "2022-06-17T00:20:21Z",
+            "owner": "LightTable",
+            "repo": "LightTable",
+            "stars": 11690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CotEditor",
+          "description": "Text editor with syntax highlighting, snippets, and regular expression search. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T00:09:55Z",
+            "owner": "coteditor",
+            "repo": "CotEditor",
+            "stars": 8362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vimr",
+          "description": "Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-26T13:24:42Z",
+            "owner": "qvacua",
+            "repo": "vimr",
+            "stars": 6981
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Notepad 3",
+          "description": "Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T21:24:56Z",
+            "owner": "rizonesoft",
+            "repo": "Notepad3",
+            "stars": 6575
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MarkEdit",
+          "description": "Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T02:38:55Z",
+            "owner": "MarkEdit-app",
+            "repo": "MarkEdit",
+            "stars": 5423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emacs",
+          "description": "Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2026-08-12T20:52:51Z",
+            "owner": "emacs-mirror",
+            "repo": "emacs",
+            "stars": 5146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Geany",
+          "description": "Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-03T21:34:14Z",
+            "owner": "geany",
+            "repo": "geany",
+            "stars": 3691
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cate",
+          "description": "Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:59:47Z",
+            "owner": "0-AI-UG",
+            "repo": "cate",
+            "stars": 2081
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brackets",
+          "description": "Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-30T21:32:08Z",
+            "owner": "brackets-cont",
+            "repo": "brackets",
+            "stars": 1513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SubEthaEdit",
+          "description": "Collaborative text editor enabling real-time editing with multiple users. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-11-09T15:30:33Z",
+            "owner": "subethaedit",
+            "repo": "SubEthaEdit",
+            "stars": 1430
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Haystack Editor",
+          "description": "Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-02-17T15:32:22Z",
+            "owner": "haystackeditor",
+            "repo": "haystack-editor",
+            "stars": 1281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastedit",
+          "description": "Minimal text editor with a frost glass background and basic text editing tools. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-17T10:13:02Z",
+            "owner": "FrozenAssassine",
+            "repo": "Fastedit",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Text Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Motrix",
+          "description": "Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T15:28:19Z",
+            "owner": "agalwood",
+            "repo": "Motrix",
+            "stars": 52454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aria2",
+          "description": "Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-25T14:49:35Z",
+            "owner": "aria2",
+            "repo": "aria2",
+            "stars": 41706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AB Download Manager",
+          "description": "Easily download files from anywhere. 🪟 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-07T10:24:05Z",
+            "owner": "amir1376",
+            "repo": "ab-download-manager",
+            "stars": 17198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Transmission",
+          "description": "Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-07T18:17:09Z",
+            "owner": "transmission",
+            "repo": "transmission",
+            "stars": 15077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xtreme Download Manager (XDM)",
+          "description": "Powerful tool to increase download speed. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-23T01:08:10Z",
+            "owner": "subhra74",
+            "repo": "xdm",
+            "stars": 7865
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persepolis Download Manager",
+          "description": "GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T19:26:14Z",
+            "owner": "persepolisdm",
+            "repo": "persepolis",
+            "stars": 7434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluxDown",
+          "description": "Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:27:05Z",
+            "owner": "zerx-lab",
+            "repo": "FluxDown",
+            "stars": 1942
+          }
+        }
+      ],
+      "title": "Download Managers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Playnite",
+          "description": "Unified game library manager. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T13:42:53Z",
+            "owner": "JosefNemec",
+            "repo": "Playnite",
+            "stars": 13743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroic Games Launcher",
+          "description": "Launcher for Epic, GOG. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T19:59:09Z",
+            "owner": "Heroic-Games-Launcher",
+            "repo": "HeroicGamesLauncher",
+            "stars": 11989
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lutris",
+          "description": "Open-source game manager for Linux. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T23:53:04Z",
+            "owner": "lutris",
+            "repo": "lutris",
+            "stars": 10145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtonUp-Qt",
+          "description": "Tool for managing Proton/Wine compatibility. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T06:03:12Z",
+            "owner": "DavidoTek",
+            "repo": "ProtonUp-Qt",
+            "stars": 2017
+          }
+        }
+      ],
+      "title": "Games"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RetroArch",
+          "description": "Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:38:29Z",
+            "owner": "libretro",
+            "repo": "RetroArch",
+            "stars": 13510
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DuckStation",
+          "description": "PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:20:35Z",
+            "owner": "stenzek",
+            "repo": "duckstation",
+            "stars": 10531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PCSX-Redux",
+          "description": "PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T02:08:12Z",
+            "owner": "grumpycoders",
+            "repo": "pcsx-redux",
+            "stars": 981
+          }
+        }
+      ],
+      "title": "Other Emulators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Draw.io",
+          "description": "Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T10:06:22Z",
+            "owner": "jgraph",
+            "repo": "drawio-desktop",
+            "stars": 62587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Photo AI",
+          "description": "An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T11:39:09Z",
+            "owner": "vegidio",
+            "repo": "open-photo-ai",
+            "stars": 158
+          }
+        }
+      ],
+      "title": "Graphics Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Sunshine",
+          "description": "Self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T07:31:49Z",
+            "owner": "LizardByte",
+            "repo": "Sunshine",
+            "stars": 40128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moonlight",
+          "description": "GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T08:58:50Z",
+            "owner": "moonlight-stream",
+            "repo": "moonlight-qt",
+            "stars": 18264
+          }
+        }
+      ],
+      "title": "Remote Access"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lossless-cut",
+          "description": "Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T01:00:26Z",
+            "owner": "mifi",
+            "repo": "lossless-cut",
+            "stars": 42879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shotcut",
+          "description": "Video editor with a wide range of features. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T03:40:52Z",
+            "owner": "mltframework",
+            "repo": "shotcut",
+            "stars": 14911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Olive Video Editor",
+          "description": "Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-12-05T10:34:17Z",
+            "owner": "olive-editor",
+            "repo": "olive",
+            "stars": 9114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenShot",
+          "description": "Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:42:45Z",
+            "owner": "OpenShot",
+            "repo": "openshot-qt",
+            "stars": 6163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kdenlive",
+          "description": "Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:57:29Z",
+            "owner": "KDE",
+            "repo": "kdenlive",
+            "stars": 5463
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Avidemux",
+          "description": "Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T23:43:14Z",
+            "owner": "mean00",
+            "repo": "avidemux2",
+            "stars": 957
+          }
+        }
+      ],
+      "title": "Video Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScreenToGif",
+          "description": "Record, edit, and create animated GIFs from your screen. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T17:52:48Z",
+            "owner": "NickeManarin",
+            "repo": "ScreenToGif",
+            "stars": 27461
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nginx RTMP",
+          "description": "RTMP streaming server built with NGINX. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-24T10:28:38Z",
+            "owner": "arut",
+            "repo": "nginx-rtmp-module",
+            "stars": 14032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Livestreamer",
+          "description": "Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-29T19:04:21Z",
+            "owner": "chrippa",
+            "repo": "livestreamer",
+            "stars": 3863
+          }
+        }
+      ],
+      "title": "Video Streaming and Recording"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "v2rayN",
+          "description": "Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T07:09:04Z",
+            "owner": "2dust",
+            "repo": "v2rayN",
+            "stars": 113689
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlClash",
+          "description": "Multi-platform proxy client based on ClashMeta. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-09T09:45:34Z",
+            "owner": "chen08209",
+            "repo": "FlClash",
+            "stars": 48396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sing-box",
+          "description": "Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T08:33:51Z",
+            "owner": "SagerNet",
+            "repo": "sing-box",
+            "stars": 36948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ShadowsocksX-NG",
+          "description": "Modern Shadowsocks client for enhanced security. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2024-10-29T12:19:30Z",
+            "owner": "shadowsocks",
+            "repo": "ShadowsocksX-NG",
+            "stars": 32890
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hiddify",
+          "description": "Multi-platform proxy toolchain. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2026-08-10T17:43:24Z",
+            "owner": "hiddify",
+            "repo": "hiddify-app",
+            "stars": 32026
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algo",
+          "description": "Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:46:21Z",
+            "owner": "trailofbits",
+            "repo": "algo",
+            "stars": 30358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tunnelblick",
+          "description": "Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-08-11T13:48:04Z",
+            "owner": "Tunnelblick",
+            "repo": "Tunnelblick",
+            "stars": 3273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpechtLite",
+          "description": "Minimal proxy tool using rule-based configuration. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-04-16T15:45:47Z",
+            "owner": "zhuhaow",
+            "repo": "SpechtLite",
+            "stars": 2912
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Specht",
+          "description": "Rule-based proxy with Network Extension support. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2020-04-16T15:47:24Z",
+            "owner": "zhuhaow",
+            "repo": "Specht",
+            "stars": 810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoonProxy",
+          "description": "GUI client for FRP (fast reverse proxy) to expose local services to the internet. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-27T08:04:06Z",
+            "owner": "MoonProxyHQ",
+            "repo": "moonproxy-desktop",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rvc-mac",
+          "description": "Secure VPN client from Ribose. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2017-10-21T13:13:57Z",
+            "owner": "riboseinc",
+            "repo": "cryptode-mac",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "VPN and Proxy Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "yt-dlp",
+          "description": "Command-line tool for downloading audio and video. 🪟 🍎 🐧 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T22:58:34Z",
+            "owner": "yt-dlp",
+            "repo": "yt-dlp",
+            "stars": 184125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerToys",
+          "description": "Utilities for file renaming, resizing, and productivity tools. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:59:31Z",
+            "owner": "microsoft",
+            "repo": "PowerToys",
+            "stars": 137705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stats",
+          "description": "Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:36:02Z",
+            "owner": "exelban",
+            "repo": "stats",
+            "stars": 41149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "balenaEtcher",
+          "description": "Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-02T09:25:23Z",
+            "owner": "balena-io",
+            "repo": "etcher",
+            "stars": 34147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonitorControl",
+          "description": "Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T12:43:28Z",
+            "owner": "MonitorControl",
+            "repo": "MonitorControl",
+            "stars": 33953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windterm",
+          "description": "SSH/Telnet/Serial/Shell/Sftp client for DevOps. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-03-11T19:12:09Z",
+            "owner": "kingToolbox",
+            "repo": "WindTerm",
+            "stars": 31944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UniGetUI",
+          "description": "UI for popular package managers like Winget, NPM, and more. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T17:40:04Z",
+            "owner": "Devolutions",
+            "repo": "UniGetUI",
+            "stars": 25505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hammerspoon",
+          "description": "macOS automation tool for scripting windows, input devices, menus, and system behavior with Lua. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-07-08T21:13:24Z",
+            "owner": "Hammerspoon",
+            "repo": "hammerspoon",
+            "stars": 15922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoHotkey",
+          "description": "Scripting language for task automation and custom hotkeys. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-17T09:45:41Z",
+            "owner": "AutoHotkey",
+            "repo": "AutoHotkey",
+            "stars": 12932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Locale Emulator",
+          "description": "Simulate different system regions and languages. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-04-15T09:55:46Z",
+            "owner": "xupefei",
+            "repo": "Locale-Emulator",
+            "stars": 11693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwiftBar",
+          "description": "Menu bar customization tool that turns script output into macOS menu bar items. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T13:09:02Z",
+            "owner": "swiftbar",
+            "repo": "SwiftBar",
+            "stars": 4395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CookCLI",
+          "description": "Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:16:07Z",
+            "owner": "cooklang",
+            "repo": "cookcli",
+            "stars": 1364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XQuartz",
+          "description": "X.Org X Window System server for running X11 applications on macOS. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-10T14:59:28Z",
+            "owner": "XQuartz",
+            "repo": "XQuartz",
+            "stars": 1054
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Saga Reader",
+          "description": "Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-11T23:53:03Z",
+            "owner": "sopaco",
+            "repo": "saga-reader",
+            "stars": 533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keylock",
+          "description": "Lock your keyboard with a click. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T11:58:44Z",
+            "owner": "Axorax",
+            "repo": "keylock",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winpower",
+          "description": "Advanced power settings and management for Windows. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T17:31:14Z",
+            "owner": "Axorax",
+            "repo": "winpower",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Off Grid AI Desktop",
+          "description": "Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T07:02:33Z",
+            "owner": "off-grid-ai",
+            "repo": "OGAD",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Core-Monitor",
+          "description": "Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T16:23:46Z",
+            "owner": "offyotto",
+            "repo": "Core-Monitor",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Dictation",
+          "description": "Voice-to-text with configurable shortcuts, offline recognition on supported devices, and optional cloud transcription and cleanup. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-13T01:45:53Z",
+            "owner": "writingmate",
+            "repo": "aidictation",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KaiROS AI",
+          "description": "Local AI assistant with GPU acceleration and model catalog. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-27T09:31:29Z",
+            "owner": "avikeid2007",
+            "repo": "KaiROS-AI",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Burrete",
+          "description": "Molecular file workspace with Finder Quick Look previews, Mol* 3D, and chemistry grids. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T17:56:31Z",
+            "owner": "SergeiNikolenko",
+            "repo": "Burrete",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeakFlow",
+          "description": "Seven productivity tools with screen dimming, clipboard manager, volume mixer, and meeting alerts. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-11T01:35:32Z",
+            "owner": "inchwormz",
+            "repo": "peakflow-electron",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Utility"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EcoPaste",
+          "description": "Cross-platform modern clipboard management tool. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:29:50Z",
+            "owner": "EcoPasteHub",
+            "repo": "EcoPaste",
+            "stars": 7294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qopy",
+          "description": "Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-03-15T21:43:39Z",
+            "owner": "0PandaDEV",
+            "repo": "Qopy",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Diodon",
+          "description": "Simple and minimal clipboard manager. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vala",
+            "last_commit": "2026-07-24T19:42:16Z",
+            "owner": "diodon-dev",
+            "repo": "diodon",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pesty",
+          "description": "Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T07:06:53Z",
+            "owner": "momenbasel",
+            "repo": "pesty",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SaneClip",
+          "description": "Clipboard manager that keeps all history local with search and formatting tools. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-07T01:36:20Z",
+            "owner": "sane-apps",
+            "repo": "SaneClip",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "Clipboard Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FancyZones",
+          "description": "Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T03:59:31Z",
+            "owner": "microsoft",
+            "repo": "PowerToys",
+            "stars": 137705
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Niri",
+          "description": "Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:29:55Z",
+            "owner": "niri-wm",
+            "repo": "niri",
+            "stars": 26856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sway",
+          "description": "Wayland-based tiling window manager, i3-like. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-31T11:47:08Z",
+            "owner": "swaywm",
+            "repo": "sway",
+            "stars": 17226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AltTab",
+          "description": "Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-06T08:40:13Z",
+            "owner": "lwouis",
+            "repo": "alt-tab-macos",
+            "stars": 16166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komorebi",
+          "description": "Tiling window manager for Windows. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T01:23:58Z",
+            "owner": "LGUG2Z",
+            "repo": "komorebi",
+            "stars": 15007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GlazeWM",
+          "description": "Tiling window manager inspired by i3. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-20T06:02:04Z",
+            "owner": "glzr-io",
+            "repo": "glazewm",
+            "stars": 12593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i3",
+          "description": "Keyboard-driven tiling window manager. 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-28T06:22:26Z",
+            "owner": "i3",
+            "repo": "i3",
+            "stars": 10538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YASB",
+          "description": "Highly configurable Windows status bar. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:50:20Z",
+            "owner": "amnweb",
+            "repo": "yasb",
+            "stars": 5322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AltSnap",
+          "description": "Snap windows to positions using keyboard shortcuts. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-27T04:58:42Z",
+            "owner": "RamonUnch",
+            "repo": "AltSnap",
+            "stars": 5113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OnTopReplica",
+          "description": "Display part of a window on top of others. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-05T07:51:34Z",
+            "owner": "LorenzCK",
+            "repo": "OnTopReplica",
+            "stars": 3377
+          }
+        }
+      ],
+      "title": "Window Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Files",
+          "description": "Modern file manager for easy file organization. 🪟 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T04:25:22Z",
+            "owner": "files-community",
+            "repo": "Files",
+            "stars": 44610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sigma File Manager",
+          "description": "Modern file manager with advanced features. 🪟 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-21T14:21:26Z",
+            "owner": "aleksey-hoffman",
+            "repo": "sigma-file-manager",
+            "stars": 6488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyberduck",
+          "description": "File transfer client for FTP, SFTP, WebDAV, S3, Azure, OneDrive, and other storage services. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:23:09Z",
+            "owner": "iterate-ch",
+            "repo": "cyberduck",
+            "stars": 4687
+          }
+        }
+      ],
+      "title": "File Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PureMac",
+          "description": "macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T06:45:58Z",
+            "owner": "momenbasel",
+            "repo": "PureMac",
+            "stars": 5717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dusty",
+          "description": "macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-26T01:08:30Z",
+            "owner": "yagcioglutoprak",
+            "repo": "dusty",
+            "stars": 68
+          }
+        }
+      ],
+      "title": "Application Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flameshot",
+          "description": "Customizable screenshot tool with an easy-to-use interface and built-in editor. 🪟 🍎 🐧 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T20:43:19Z",
+            "owner": "flameshot-org",
+            "repo": "flameshot",
+            "stars": 30612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Capter",
+          "description": "Super simple screenshot tool. 🪟 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-09T13:17:52Z",
+            "owner": "decipher3114",
+            "repo": "Capter",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Keyty",
+          "description": "Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T09:31:18Z",
+            "owner": "keytyapp",
+            "repo": "Keyty",
+            "stars": 57
+          }
+        }
+      ],
+      "title": "Screenshot"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mos",
+          "description": "Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-04T16:20:49Z",
+            "owner": "Caldis",
+            "repo": "Mos",
+            "stars": 21136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinearMouse",
+          "description": "Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T01:32:47Z",
+            "owner": "linearmouse",
+            "repo": "linearmouse",
+            "stars": 6663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MiddleDrag",
+          "description": "Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 🟢",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-22T01:19:21Z",
+            "owner": "NullPointerDepressiveDisorder",
+            "repo": "MiddleDrag",
+            "stars": 231
+          }
+        }
+      ],
+      "title": "Trackpad"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:16:16.784Z",
+    "original_repository": "Axorax/awesome-free-apps",
+    "original_repository_sha": "30e3453e9a5690368d29539e6c6912c9084c6f86",
+    "enhanced_repository": "enhansome/enhansome-free-apps",
+    "enhanced_repository_description": null,
+    "title": "Awesome free apps with stars"
+  }
+}
