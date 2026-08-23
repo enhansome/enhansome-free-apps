@@ -17,7 +17,7 @@
 > Maintaining this project requires a lot of time. [**Donate to support me!**](https://patreon.com/axorax) ❤️
 >
 > Want to add something? [contributing.md](contributing.md) <br>
-> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28) ⭐ 7,494 | 🐛 39 | 🌐 JavaScript | 📅 2026-08-21
+> Want to become a maintainer? [Help maintain the project](https://github.com/Axorax/awesome-free-apps/issues/28) ⭐ 7,501 | 🐛 41 | 🌐 JavaScript | 📅 2026-08-21
 >
 > **Looking for the mobile version of this list?** -> [MOBILE.md](MOBILE.md)
 
@@ -87,9 +87,9 @@
 
 ## Audio
 
-* [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,605 | 🐛 10 | 🌐 C | 📅 2026-08-11 - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
-* [Ambie](https://github.com/jenius-apps/ambie) ⭐ 2,224 | 🐛 44 | 🌐 C# | 📅 2026-08-22 - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
-* [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) ⭐ 6 | 🐛 2 | 🌐 C# | 📅 2026-08-18 - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle) ⭐ 6 | 🐛 2 | 🌐 C# | 📅 2026-08-18
+* [BlackHole](https://github.com/ExistentialAudio/BlackHole) ⭐ 19,612 | 🐛 10 | 🌐 C | 📅 2026-08-11 - Virtual audio loopback driver for routing audio between macOS applications. 🍎 🟢
+* [Ambie](https://github.com/jenius-apps/ambie) ⭐ 2,222 | 🐛 44 | 🌐 C# | 📅 2026-08-22 - Use white noise, nature sounds, & more to boost your productivity. 🪟 🟢
+* [BluetoothHandsFreeToggle](https://github.com/Avazbek22/BluetoothHandsFreeToggle) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-08-23 - Fixes Bluetooth headsets stuck in low-quality Hands-Free mode. 🪟 [🟢](https://github.com/Avazbek22/BluetoothHandsFreeToggle) ⭐ 6 | 🐛 1 | 🌐 C# | 📅 2026-08-23
 * [FXSound](https://fxsound.com) - Boost sound quality, volume, and bass. Has a beautiful modern UI. 🪟 🟢 ⭐
 * [JACK Audio](https://jackaudio.org) - Audio server for routing and mixing sound between programs. 🪟 🍎 🐧
 * [EarTrumpet](https://eartrumpet.app) - Advanced volume control for Windows, offering app-specific audio management. 🪟
@@ -124,12 +124,12 @@
 * [Frescobaldi](https://frescobaldi.org) - Editor for LilyPond to create music scores quickly. 🪟 🍎 🐧
 * [LilyPond](https://lilypond.org) - Music notation program for creating high-quality sheet music. 🪟 🍎 🐧
 * [MuseScore](https://musescore.org) - Software for creating, playing, and sharing sheet music. 🪟 🍎 🐧
-* [TuxGuitar](https://www.tuxguitar.app) - TuxGuitar is an editor and player for multi-track guitar tablatures. It can open Guitar Pro, Power Tab Editor, TablEdit and MIDI files. 🪟 🍎 🐧[🟢](https://github.com/helge17/tuxguitar) ⭐ 1,450 | 🐛 100 | 🌐 Java | 📅 2026-08-14
+* [TuxGuitar](https://www.tuxguitar.app) - TuxGuitar is an editor and player for multi-track guitar tablatures. It can open Guitar Pro, Power Tab Editor, TablEdit and MIDI files. 🪟 🍎 🐧[🟢](https://github.com/helge17/tuxguitar) ⭐ 1,451 | 🐛 101 | 🌐 Java | 📅 2026-08-14
 
 ### Music Production
 
-* [Furnace](https://github.com/tildearrow/furnace) ⭐ 3,794 | 🐛 55 | 🌐 C++ | 📅 2026-08-22 - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
-* [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,089 | 🐛 86 | 🌐 C++ | 📅 2026-06-22 - Cross platform XM tracker. 🪟 🍎 🐧 🟢
+* [Furnace](https://github.com/tildearrow/furnace) ⭐ 3,798 | 🐛 55 | 🌐 C++ | 📅 2026-08-23 - Multi-system chiptune tracker. 🪟 🍎 🐧 🟢
+* [MilkyTracker](https://github.com/milkytracker/MilkyTracker) ⭐ 2,090 | 🐛 86 | 🌐 C++ | 📅 2026-06-22 - Cross platform XM tracker. 🪟 🍎 🐧 🟢
 * [Stargate DAW](https://github.com/stargatedaw/stargate) ⭐ 872 | 🐛 19 | 🌐 Python | 📅 2025-04-21 - Innovation-first DAW, instrument and effect plugins. 🪟 🍎 🐧 🟢
 * [LMMS](https://lmms.io) - DAW for creating music with virtual instruments and MIDI support. 🪟 🍎 🐧 🟢 ⭐
 * [Ardour](https://ardour.org) - DAW for recording, editing, and mixing audio with professional features. 🪟 🍎 🐧
@@ -140,11 +140,11 @@
 
 ## Browsers
 
-* [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop) ⭐ 44,037 | 🐛 637 | 🌐 JavaScript | 📅 2026-08-22
-* [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,493 | 🐛 184 | 🌐 Python | 📅 2026-08-21 - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 [🟢](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,493 | 🐛 184 | 🌐 Python | 📅 2026-08-21
-* [Chromium](https://chromium.org/Home) - Browser project behind Chrome. 🪟 🍎 🐧 [🟢](https://github.com/chromium/chromium) ⭐ 24,595 | 🐛 28 | 📅 2026-08-22
-* [Brave](https://brave.com) - Privacy-focused and fast browser. 🪟 🍎 🐧 [🟢](https://github.com/brave/brave-browser) ⭐ 23,409 | 🐛 10,589 | 📅 2026-08-21
-* [qutebrowser](https://qutebrowser.org) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧 [🟢](https://github.com/qutebrowser/qutebrowser) ⭐ 11,658 | 🐛 1,332 | 🌐 Python | 📅 2026-08-17
+* [Zen Browser](https://zen-browser.app) - Beautifully designed, privacy-focused browser with custom mods. 🪟 🍎 🐧 [🟢](https://github.com/zen-browser/desktop) ⭐ 44,054 | 🐛 636 | 🌐 JavaScript | 📅 2026-08-23
+* [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,501 | 🐛 184 | 🌐 Python | 📅 2026-08-21 - Privacy-focused Chromium with Google services removed. 🪟 🍎 🐧 [🟢](https://github.com/ungoogled-software/ungoogled-chromium) ⭐ 27,501 | 🐛 184 | 🌐 Python | 📅 2026-08-21
+* [Chromium](https://chromium.org/Home) - Browser project behind Chrome. 🪟 🍎 🐧 [🟢](https://github.com/chromium/chromium) ⭐ 24,600 | 🐛 28 | 📅 2026-08-23
+* [Brave](https://brave.com) - Privacy-focused and fast browser. 🪟 🍎 🐧 [🟢](https://github.com/brave/brave-browser) ⭐ 23,421 | 🐛 10,592 | 📅 2026-08-21
+* [qutebrowser](https://qutebrowser.org) - Keyboard-driven, vim-like browser in Python and Qt. 🪟 🍎 🐧 [🟢](https://github.com/qutebrowser/qutebrowser) ⭐ 11,658 | 🐛 1,333 | 🌐 Python | 📅 2026-08-17
 * [Mullvad Browser](https://mullvad.net/en/download/browser) - Privacy browser with Tor, anti-fingerprinting, and Mullvad VPN. 🪟 🍎 🐧 [🟢](https://github.com/mullvad/mullvad-browser) ⭐ 2,489 | 🐛 173 | 🌐 Shell | 📅 2026-08-17
 * [Tor Browser](https://torproject.org/projects/torbrowser.html) - Privacy browser routing traffic over the Tor network. 🪟 🍎 🐧 [🟢](https://gitlab.torproject.org/tpo/applications/tor-browser) ⭐
 * [Arc](https://arc.net) - Vertical tab browser for modern productivity. 🪟 🍎
@@ -206,18 +206,18 @@
 
 ### System Customization
 
-* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 33,688 | 🐛 365 | 🌐 C | 📅 2026-07-06 - Restores and enhances the classic taskbar and system elements. 🪟 [🟢](https://github.com/valinet/ExplorerPatcher) ⭐ 33,688 | 🐛 365 | 🌐 C | 📅 2026-07-06
-* [Flow Launcher](https://flowlauncher.com) - Quick file search and app launcher like Spotlight. 🪟 [🟢](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,401 | 🐛 302 | 🌐 C# | 📅 2026-08-21
-* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 14,611 | 🐛 99 | 🌐 Swift | 📅 2026-06-15 - Simple app to organize and declutter your menu bar. 🍎 [🟢](https://github.com/dwarvesf/hidden) ⭐ 14,611 | 🐛 99 | 🌐 Swift | 📅 2026-06-15
-* [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) ⭐ 9,666 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-22 - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟 [🟢](https://github.com/farag2/Sophia-Script-for-Windows) ⭐ 9,666 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-22
-* [Windhawk](https://windhawk.net) - Customization marketplace for Windows and programs. 🪟 [🟢](https://github.com/ramensoftware/windhawk) ⭐ 8,756 | 🐛 153 | 🌐 Rust | 📅 2026-08-18
-* [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,632 | 🐛 42 | 🌐 C++ | 📅 2026-08-12 - Tools to freely change system fonts. 🪟 [🟢](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,632 | 🐛 42 | 🌐 C++ | 📅 2026-08-12
-* [RetroBar](https://github.com/dremin/RetroBar) ⭐ 4,329 | 🐛 471 | 🌐 C# | 📅 2026-08-19 - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟 [🟢](https://github.com/dremin/RetroBar) ⭐ 4,329 | 🐛 471 | 🌐 C# | 📅 2026-08-19
+* [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) ⭐ 33,694 | 🐛 366 | 🌐 C | 📅 2026-07-06 - Restores and enhances the classic taskbar and system elements. 🪟 [🟢](https://github.com/valinet/ExplorerPatcher) ⭐ 33,694 | 🐛 366 | 🌐 C | 📅 2026-07-06
+* [Flow Launcher](https://flowlauncher.com) - Quick file search and app launcher like Spotlight. 🪟 [🟢](https://github.com/Flow-Launcher/Flow.Launcher) ⭐ 15,407 | 🐛 299 | 🌐 C# | 📅 2026-08-23
+* [Hidden Bar](https://github.com/dwarvesf/hidden) ⭐ 14,612 | 🐛 99 | 🌐 Swift | 📅 2026-06-15 - Simple app to organize and declutter your menu bar. 🍎 [🟢](https://github.com/dwarvesf/hidden) ⭐ 14,612 | 🐛 99 | 🌐 Swift | 📅 2026-06-15
+* [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) ⭐ 9,668 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23 - The most powerful PowerShell module for fine-tuning Windows showing how Windows can be configured without making any harm to it. 🪟 [🟢](https://github.com/farag2/Sophia-Script-for-Windows) ⭐ 9,668 | 🐛 0 | 🌐 PowerShell | 📅 2026-08-23
+* [Windhawk](https://windhawk.net) - Customization marketplace for Windows and programs. 🪟 [🟢](https://github.com/ramensoftware/windhawk) ⭐ 8,764 | 🐛 153 | 🌐 Rust | 📅 2026-08-18
+* [noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,632 | 🐛 42 | 🌐 C++ | 📅 2026-08-23 - Tools to freely change system fonts. 🪟 [🟢](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,632 | 🐛 42 | 🌐 C++ | 📅 2026-08-23
+* [RetroBar](https://github.com/dremin/RetroBar) ⭐ 4,330 | 🐛 471 | 🌐 C# | 📅 2026-08-19 - Classic Windows 95, 98, Me, 2000, XP, Vista taskbar for modern versions of Windows. 🪟 [🟢](https://github.com/dremin/RetroBar) ⭐ 4,330 | 🐛 471 | 🌐 C# | 📅 2026-08-19
 * [ModernFlyouts](https://modernflyouts-community.github.io) - Replaces default flyouts with customizable modern ones. 🪟 [🟢](https://github.com/ModernFlyouts-Community/ModernFlyouts) ⚠️ Archived
 * [HideVolumeOSD](https://github.com/UnlimitedStack/HideVolumeOSD) ⭐ 484 | 🐛 28 | 🌐 C# | 📅 2023-12-05 - Hides the Windows volume bar. 🪟 [🟢](https://github.com/UnlimitedStack/HideVolumeOSD) ⭐ 484 | 🐛 28 | 🌐 C# | 📅 2023-12-05
-* [SaneBar](https://sanebar.com) - Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 [🟢](https://github.com/sane-apps/SaneBar) ⭐ 278 | 🐛 0 | 🌐 Swift | 📅 2026-08-14
+* [SaneBar](https://sanebar.com) - Menu bar icon manager and organizer. Local-only alternative to Bartender. 🍎 [🟢](https://github.com/sane-apps/SaneBar) ⭐ 278 | 🐛 0 | 🌐 Swift | 📅 2026-08-22
 * [SaneClick](https://saneclick.com) - Finder toolbar customizer for adding quick actions. 🍎 [🟢](https://github.com/sane-apps/SaneClick) ⭐ 30 | 🐛 1 | 🌐 Swift | 📅 2026-08-18
-* [Thaw](https://github.com/stonerl/Thaw) ⭐ 5 | 🐛 6 | 📅 2026-08-17 - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw) ⭐ 5 | 🐛 6 | 📅 2026-08-17
+* [Thaw](https://github.com/stonerl/Thaw) ⭐ 6 | 🐛 6 | 📅 2026-08-17 - Menu bar manager for hiding, arranging, and customizing menu bar items. 🍎 [🟢](https://github.com/stonerl/Thaw) ⭐ 6 | 🐛 6 | 📅 2026-08-17
 * [Winaero](https://winaerotweaker.com) - All-in-one app for tuning Windows settings. 🪟
 * [MacPilot](https://koingosw.com/products/macpilot) - Unlock hidden settings and system tweaks. 🍎
 * [TaskbarX](https://chrisandriessen.nl/taskbarx) - Personalize the taskbar with center alignment, transparency, and animations. 🪟
@@ -226,10 +226,10 @@
 
 ### Wallpaper Tools
 
-* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ⭐ 4,998 | 🐛 28 | 🌐 C# | 📅 2026-08-16 - Port of macOS Mojave Dynamic Desktop feature to Windows. 🪟 🟢
-* [Komorebi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,754 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - Animated wallpaper manager. 🐧 🟢
-* [Variety](https://github.com/varietywalls/variety) ⭐ 1,685 | 🐛 268 | 🌐 Python | 📅 2026-08-05 - Wallpaper changer with features for downloading and managing wallpapers. 🐧 🟢
-* [Sucrose](https://github.com/Taiizor/Sucrose) ⭐ 1,487 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Versatile wallpaper engine bringing life to your desktop with a wide range of interactive themes. 🪟 🟢
+* [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) ⭐ 5,004 | 🐛 28 | 🌐 C# | 📅 2026-08-16 - Port of macOS Mojave Dynamic Desktop feature to Windows. 🪟 🟢
+* [Komorebi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,754 | 🐛 289 | 🌐 Vala | 📅 2025-07-21 - Animated wallpaper manager. 🐧 🟢
+* [Variety](https://github.com/varietywalls/variety) ⭐ 1,687 | 🐛 269 | 🌐 Python | 📅 2026-08-05 - Wallpaper changer with features for downloading and managing wallpapers. 🐧 🟢
+* [Sucrose](https://github.com/Taiizor/Sucrose) ⭐ 1,489 | 🐛 15 | 🌐 C# | 📅 2026-08-12 - Versatile wallpaper engine bringing life to your desktop with a wide range of interactive themes. 🪟 🟢
 * [ScreenPlay](https://github.com/kelteseth/ScreenPlay) ⭐ 250 | 🐛 6 | 🌐 C++ | 📅 2026-08-19 - Wallpaper and widget engine. 🪟 🐧 🟢
 * [Lively Wallpaper](https://rocksdanister.com/lively) - Tool to set animated and interactive wallpapers. 🪟 🟢 ⭐
 * [Rainmeter](https://rainmeter.net) - Desktop customization tool offering widgets, skins, and live stats. 🪟 🟢 ⭐
@@ -247,21 +247,21 @@
 
 * [FreeFileSync](https://freefilesync.org) - Tool for comparing and syncing files or folders. 🪟 🍎 🐧 🟢 ⭐
 * [rclone](https://rclone.org) - Command-line tool for managing and syncing files with cloud storage. 🪟 🍎 🐧
-* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 87,876 | 🐛 375 | 🌐 Go | 📅 2026-08-22 - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
+* [Syncthing](https://github.com/syncthing/syncthing) ⭐ 87,904 | 🐛 376 | 🌐 Go | 📅 2026-08-22 - Continuous file synchronization for multiple computers. 🪟 🍎 🐧 🟢
 
 ## Developer Tools
 
-* [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama) ⭐ 179,194 | 🐛 3,781 | 🌐 Go | 📅 2026-08-22
-* [Ghostty](https://ghostty.org) - Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 [🟢](https://github.com/ghostty-org/ghostty) ⭐ 60,068 | 🐛 240 | 🌐 Zig | 📅 2026-08-22
-* [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm) ⭐ 28,498 | 🐛 1,824 | 🌐 Rust | 📅 2026-08-20
-* [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop) ⭐ 21,775 | 🐛 1,043 | 🌐 TypeScript | 📅 2026-08-20
-* [iTerm2](https://iterm2.com) - Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 [🟢](https://github.com/gnachman/iTerm2) ⭐ 17,954 | 🐛 74 | 🌐 Objective-C | 📅 2026-08-22
-* [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent) ⭐ 2,484 | 🐛 39 | 🌐 TypeScript | 📅 2026-08-21
-* [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura) ⭐ 599 | 🐛 3 | 🌐 Rust | 📅 2026-08-20
+* [Ollama](https://ollama.com) - Runs and manages local AI models with desktop and command-line tools. 🪟 🍎 🐧 [🟢](https://github.com/ollama/ollama) ⭐ 179,264 | 🐛 3,788 | 🌐 Go | 📅 2026-08-23
+* [Ghostty](https://ghostty.org) - Fast native terminal emulator with GPU acceleration, tabs, splits, and modern terminal features. 🍎 🐧 [🟢](https://github.com/ghostty-org/ghostty) ⭐ 60,104 | 🐛 239 | 🌐 Zig | 📅 2026-08-23
+* [WezTerm](https://wezterm.org) - GPU-accelerated terminal emulator and multiplexer with tabs, panes, SSH, and Lua configuration. 🪟 🍎 🐧 [🟢](https://github.com/wezterm/wezterm) ⭐ 28,511 | 🐛 1,823 | 🌐 Rust | 📅 2026-08-20
+* [GitHub Desktop](https://desktop.github.com) - Graphical Git client for cloning repositories, reviewing changes, and syncing with GitHub. 🪟 🍎 [🟢](https://github.com/desktop/desktop) ⭐ 21,779 | 🐛 1,047 | 🌐 TypeScript | 📅 2026-08-20
+* [iTerm2](https://iterm2.com) - Terminal replacement for macOS with split panes, profiles, search, and extensive customization. 🍎 [🟢](https://github.com/gnachman/iTerm2) ⭐ 17,957 | 🐛 73 | 🌐 Objective-C | 📅 2026-08-23
+* [Atomic Agent](https://atomicagent.io) - Local-first CLI and TUI coding assistant that runs open-weight models entirely on your machine. Includes 56 built-in tools for browser, filesystem, git, memory, and vision, MCP support, and a five-layer local memory system. No account or API key required. 🪟 🍎 🐧 [🟢](https://github.com/AtomicBot-ai/atomic-agent) ⭐ 2,507 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-23
+* [Tura](https://turaai.net/) - Build agent that uses 80% less token and delivers better results. 🪟 🍎 🐧 [🟢](https://github.com/Tura-AI/tura) ⭐ 600 | 🐛 3 | 🌐 Rust | 📅 2026-08-20
 * [TkForge](https://github.com/Axorax/tkforge) ⭐ 475 | 🐛 3 | 🌐 Python | 📅 2025-08-27 - Drag & drop in Figma to create a Python GUI with ease. 🪟 🍎 🐧 🟢 ⭐
 * [WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-10 - Windows system tray app for monitoring Claude Code token usage in real time. Displays per-session token counts, costs, context window usage, and rate limits. 🪟 [🟢](https://github.com/jeongwookie/WhereMyTokens) ⭐ 71 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-10
-* [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 16 | 🐛 17 | 🌐 C# | 📅 2026-08-22 - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex) ⭐ 16 | 🐛 17 | 🌐 C# | 📅 2026-08-22
-* [DSH Studio](https://github.com/Moresyl/dsh-studio) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-08-22 - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-08-22
+* [DevProjex](https://github.com/Avazbek22/DevProjex) ⭐ 16 | 🐛 16 | 🌐 C# | 📅 2026-08-23 - Build structured, token-counted project context with visual file selection, Smart Ignore, preview, and multiple output formats.    🪟 🍎 🐧 [🟢](https://github.com/Avazbek22/DevProjex) ⭐ 16 | 🐛 16 | 🌐 C# | 📅 2026-08-23
+* [DSH Studio](https://github.com/Moresyl/dsh-studio) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-08-23 - Installs, supervises, and manages DeepSeek Harness from a cross-platform desktop interface. 🪟 🍎 🐧 [🟢](https://github.com/Moresyl/dsh-studio) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-08-23
 * [livewinsize](https://github.com/Axorax/livewinsize) ⭐ 14 | 🐛 0 | 🌐 CoffeeScript | 📅 2024-10-20 - Visualize window size in pixels and other units. 🪟 🟢 ⭐
 * [Headroom](https://headroom.walls.sh) - Native macOS menu bar app showing Claude Code's session (5h) and weekly (7d) rate-limit usage as a live %, with color-coded alerts, reset countdowns, context window fill, active model name, and session cost. Zero network calls. 🍎 [🟢](https://github.com/patwalls/headroom) ⭐ 11 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-26
 * [Diffinity](https://truehumandesign.se/s_diffinity.php) - Diff and merging tool with focus on accurate and easy-to-read source code diffs. 🪟
@@ -274,11 +274,11 @@
 
 ### API Development
 
-* [Hoppscotch](https://hoppscotch.io) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧 [🟢](https://github.com/hoppscotch/hoppscotch) ⭐ 80,076 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-22
-* [Bruno](https://www.usebruno.com) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 [🟢](https://github.com/usebruno/bruno) ⭐ 46,479 | 🐛 1,829 | 🌐 JavaScript | 📅 2026-08-21
-* [Insomnia](https://insomnia.rest) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 [🟢](https://github.com/Kong/insomnia) ⭐ 39,957 | 🐛 864 | 🌐 TypeScript | 📅 2026-08-21 ⭐
-* [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak) ⭐ 19,110 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21
-* [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon) ⭐ 8,374 | 🐛 49 | 🌐 TypeScript | 📅 2026-08-21
+* [Hoppscotch](https://hoppscotch.io) - Lightweight API development tool for designing, testing, and debugging. 🪟 🍎 🐧 [🟢](https://github.com/hoppscotch/hoppscotch) ⭐ 80,083 | 🐛 803 | 🌐 TypeScript | 📅 2026-08-22
+* [Bruno](https://www.usebruno.com) - Offline API client that is fast, Git-friendly, and open source. 🪟 🍎 🐧 [🟢](https://github.com/usebruno/bruno) ⭐ 46,497 | 🐛 1,828 | 🌐 JavaScript | 📅 2026-08-21
+* [Insomnia](https://insomnia.rest) - Simple API client for REST and GraphQL development. 🪟 🍎 🐧 [🟢](https://github.com/Kong/insomnia) ⭐ 39,955 | 🐛 864 | 🌐 TypeScript | 📅 2026-08-21 ⭐
+* [Yaak](https://yaak.app) - An offline and Git friendly API tester for HTTP, GraphQL, WebSockets, SSE, and gRPC. 🪟 🍎 🐧 [🟢](https://github.com/mountain-loop/yaak) ⭐ 19,108 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-23
+* [Mockoon](https://mockoon.com) - Desktop tool for creating and testing mock REST APIs. 🪟 🍎 🐧 [🟢](https://github.com/mockoon/mockoon) ⭐ 8,376 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-23
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client) - Native app for testing REST APIs. 🍎 [🟢](https://github.com/mmattozzi/cocoa-rest-client) ⭐ 2,369 | 🐛 44 | 🌐 Objective-C | 📅 2024-10-14
 * [SoapUI Open Source](https://soapui.org) - For testing REST and SOAP APIs with scripting support. 🪟 🍎 🐧 [🟢](https://github.com/SmartBear/soapui) ⭐ 1,705 | 🐛 145 | 🌐 Java | 📅 2026-06-08
 * [Postman](https://postman.com) - API development platform with advanced testing and collaboration tools. 🪟 🍎 🐧 ⭐
@@ -291,15 +291,15 @@
 
 ### Database
 
-* [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,506 | 🐛 840 | 🌐 C++ | 📅 2026-08-10
-* [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql) ⭐ 163 | 🐛 3 | 🌐 C++ | 📅 2026-08-21
+* [DB Browser for SQLite](https://sqlitebrowser.org) - Visual tool for creating, browsing, and editing SQLite database files. 🪟 🍎 🐧 [🟢](https://github.com/sqlitebrowser/sqlitebrowser) ⭐ 24,513 | 🐛 841 | 🌐 C++ | 📅 2026-08-22
+* [DearSQL](https://dearsql.dev) - Lightweight native database client built with Dear ImGui, supporting SQL and NoSQL databases. 🪟 🍎 🐧 [🟢](https://github.com/dunkbing/dearsql) ⭐ 163 | 🐛 3 | 🌐 C++ | 📅 2026-08-23
 * [DBeaver](https://dbeaver.io) - Universal database tool for SQL databases like MySQL, MariaDB, PostgreSQL, SQLite, Apache Family, and more. 🪟 🍎 🐧 ⭐
 * [Beekeeper Studio](https://beekeeperstudio.io) - Modern, lightweight SQL client supporting MySQL, Postgres, SQLite, SQL Server, etc. 🪟 🍎 🐧
 
 ### Network Analysis
 
-* [mitmproxy](https://mitmproxy.org) - Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧 [🟢](https://github.com/mitmproxy/mitmproxy) ⭐ 44,779 | 🐛 461 | 🌐 Python | 📅 2026-08-22
-* [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet) ⭐ 40,640 | 🐛 65 | 🌐 Rust | 📅 2026-08-22
+* [mitmproxy](https://mitmproxy.org) - Interactive HTTP proxy for debugging and penetration testing. 🪟 🍎 🐧 [🟢](https://github.com/mitmproxy/mitmproxy) ⭐ 44,788 | 🐛 462 | 🌐 Python | 📅 2026-08-22
+* [Sniffnet](https://sniffnet.net) - Tool for monitoring and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://github.com/GyulyVGC/sniffnet) ⭐ 40,658 | 🐛 65 | 🌐 Rust | 📅 2026-08-22
 * [James](https://github.com/james-proxy/james) ⭐ 1,438 | 🐛 35 | 🌐 JavaScript | 📅 2021-06-03 - Proxy for intercepting HTTP/HTTPS requests. 🪟 🍎 [🟢](https://github.com/james-proxy/james) ⭐ 1,438 | 🐛 35 | 🌐 JavaScript | 📅 2021-06-03
 * [Wireshark](https://wireshark.org) - Leading tool for capturing and analyzing network traffic. 🪟 🍎 🐧 [🟢](https://gitlab.com/wireshark/wireshark) ⭐
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload) - Class-leading vulnerability scanning and web app security. 🪟 🍎 🐧
@@ -309,8 +309,8 @@
 
 ### Game Engines
 
-* [LÖVE](https://github.com/love2d/love) ⭐ 8,646 | 🐛 122 | 🌐 C++ | 📅 2026-08-21 - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧 🟢
-* [Ren'Py](https://github.com/renpy/renpy) ⭐ 6,754 | 🐛 296 | 🌐 Ren'Py | 📅 2026-08-22 - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
+* [LÖVE](https://github.com/love2d/love) ⭐ 8,649 | 🐛 123 | 🌐 C++ | 📅 2026-08-21 - Simple, easy-to-learn 2D game engine for Lua. 🪟 🍎 🐧 🟢
+* [Ren'Py](https://github.com/renpy/renpy) ⭐ 6,758 | 🐛 298 | 🌐 Ren'Py | 📅 2026-08-23 - Popular engine for creating visual novels with a simple scripting language. 🪟 🍎 🐧 🟢
 * [LÖVR](https://github.com/bjornbytes/lovr) ⭐ 2,587 | 🐛 27 | 🌐 C | 📅 2026-08-21 - Simple 3D game engine for Lua, inspired by LÖVE. 🪟 🍎 🐧 🟢
 * [Godot](https://godotengine.org) - Game engine for 2D and 3D games with an easy-to-learn scripting language. 🪟 🍎 🐧 🟢 ⭐
 * [Unreal Engine](https://unrealengine.com) - Powerful, fully-featured game engine for high-quality 3D games. 🪟 🍎 🐧 ⭐
@@ -333,7 +333,7 @@
 
 ### Virtualization
 
-* [Lima](https://github.com/lima-vm/lima) ⭐ 21,731 | 🐛 537 | 🌐 Go | 📅 2026-08-21 - Tool for launching Linux VMs with file sharing and port forwarding. 🍎 🟢
+* [Lima](https://github.com/lima-vm/lima) ⭐ 21,737 | 🐛 538 | 🌐 Go | 📅 2026-08-21 - Tool for launching Linux VMs with file sharing and port forwarding. 🍎 🟢
 * [Mocker](https://github.com/us/mocker) ⭐ 332 | 🐛 2 | 🌐 Swift | 📅 2026-08-18 - Docker-compatible container CLI for macOS built on Apple's Containerization framework. 🍎 [🟢](https://github.com/us/mocker) ⭐ 332 | 🐛 2 | 🌐 Swift | 📅 2026-08-18
 * [Docker](https://docker.com) - Containerization platform for operating-system-level virtualization. 🪟 🍎 🐧 🟢 ⭐
 * [VirtualBox](https://www.virtualbox.org) - Virtualization software for creating and managing virtual machines. 🪟 🍎 🐧 ⭐
@@ -365,14 +365,14 @@
 
 ### E-book
 
-* [KOReader](https://koreader.rocks) - KOReader is a document viewer for E Ink devices. 🐧 [🟢](https://github.com/koreader/koreader) ⭐ 29,190 | 🐛 1,312 | 🌐 Lua | 📅 2026-08-22
-* [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader) ⭐ 27,933 | 🐛 274 | 🌐 JavaScript | 📅 2026-08-22
-* [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐ 25,707 | 🐛 7 | 🌐 Python | 📅 2026-08-22 ⭐
-* [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest) ⭐ 23,626 | 🐛 115 | 🌐 TypeScript | 📅 2026-08-22
-* [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,930 | 🐛 5 | 🌐 C++ | 📅 2026-08-22
-* [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2) ⭐ 4,448 | 🐛 268 | 🌐 C# | 📅 2026-08-21
+* [KOReader](https://koreader.rocks) - KOReader is a document viewer for E Ink devices. 🐧 [🟢](https://github.com/koreader/koreader) ⭐ 29,221 | 🐛 1,315 | 🌐 Lua | 📅 2026-08-23
+* [Koodo Reader](https://koodoreader.com/en) - EBook reader supporting 15+ formats. 🪟 🍎 🐧 [🟢](https://github.com/koodo-reader/koodo-reader) ⭐ 27,946 | 🐛 274 | 🌐 JavaScript | 📅 2026-08-23
+* [Calibre](https://calibre-ebook.com) - Powerful e-book manager. 🪟 🍎 🐧 [🟢](https://github.com/kovidgoyal/calibre) ⭐ 25,713 | 🐛 6 | 🌐 Python | 📅 2026-08-23 ⭐
+* [Readest](https://readest.com) - Cross-platform eBook reader with tools. 🪟 🍎 🐧 [🟢](https://github.com/readest/readest) ⭐ 23,670 | 🐛 118 | 🌐 TypeScript | 📅 2026-08-23
+* [Sigil](https://sigil-ebook.com) - EPUB editor. 🪟 🍎 🐧 [🟢](https://github.com/Sigil-Ebook/Sigil) ⭐ 6,930 | 🐛 4 | 🌐 C++ | 📅 2026-08-23
+* [Naps2](https://naps2.com) - Scan documents to PDF and more, as simply as possible. 🪟 🍎 🐧 [🟢](https://github.com/cyanfish/naps2) ⭐ 4,451 | 🐛 269 | 🌐 C# | 📅 2026-08-23
 * [IReader](https://github.com/IReaderorg/IReader) ⭐ 921 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-06 Free and open source novel reader for Android and Desktop
-* [Scribus](https://www.scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus) ⭐ 623 | 🐛 68 | 🌐 C++ | 📅 2026-08-18
+* [Scribus](https://www.scribus.net) - Layout and publishing software. 🪟 🍎 🐧 [🟢](https://github.com/scribusproject/scribus) ⭐ 624 | 🐛 68 | 🌐 C++ | 📅 2026-08-18
 * [iChm](https://github.com/NSGod/ichm) ⭐ 118 | 🐛 3 | 🌐 Objective-C | 📅 2021-02-07 - CHM reader. 🍎 [🟢](https://github.com/NSGod/ichm) ⭐ 118 | 🐛 3 | 🌐 Objective-C | 📅 2021-02-07
 * [Kindle App](https://amazon.com/l/16571048011) - Official Kindle reader app. 🪟 🍎
 * [Klib](https://klib.me) - Manage Kindle and iBooks highlights. 🍎
@@ -380,18 +380,18 @@
 
 ### PDF Tools
 
-* [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 90,038 | 🐛 564 | 🌐 Java | 📅 2026-08-22
-* [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 [🟢](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,372 | 🐛 84 | 🌐 C | 📅 2026-08-22 ⭐
-* [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp) ⭐ 15,265 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-16
-* [pdfcpu](https://pdfcpu.io) - A PDF processor written in Go. 🪟 🍎 🐧 [🟢](https://github.com/pdfcpu/pdfcpu) ⭐ 8,793 | 🐛 112 | 🌐 Go | 📅 2026-08-20
-* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,801 | 🐛 81 | 🌐 Python | 📅 2026-08-14 - PDF editor for splitting, merging. 🪟 🐧 [🟢](https://github.com/pdfarranger/pdfarranger) ⭐ 5,801 | 🐛 81 | 🌐 Python | 📅 2026-08-14
-* [qpdf](https://qpdf.sourceforge.io) - A content-preserving PDF document transformer. 🪟 🍎 🐧 [🟢](https://github.com/qpdf/qpdf) ⭐ 5,347 | 🐛 171 | 🌐 C++ | 📅 2026-08-22
-* [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam) ⭐ 4,545 | 🐛 123 | 🌐 Java | 📅 2026-08-10
-* [MuPDF](https://mupdf.com) - Powerful PDF viewer. 🪟 🐧 [🟢](https://github.com/ArtifexSoftware/mupdf) ⭐ 2,927 | 🐛 15 | 🌐 C | 📅 2026-08-22
-* [Okular](https://okular.kde.org) - Universal document viewer by KDE. 🪟 🍎 🐧 [🟢](https://github.com/KDE/okular) ⭐ 1,485 | 🐛 0 | 🌐 C++ | 📅 2026-08-22
+* [Stirling-PDF](https://stirling.com) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere. 🪟 🍎 🐧 [🟢](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 90,198 | 🐛 576 | 🌐 Java | 📅 2026-08-23
+* [Sumatra PDF](https://sumatrapdfreader.org/free-pdf-reader) - Fast, lightweight PDF reader. 🪟 [🟢](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 17,379 | 🐛 86 | 🌐 C | 📅 2026-08-23 ⭐
+* [Xournal++](https://xournalpp.github.io) - Handwriting and annotation tool for PDFs. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp) ⭐ 15,270 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-23
+* [pdfcpu](https://pdfcpu.io) - A PDF processor written in Go. 🪟 🍎 🐧 [🟢](https://github.com/pdfcpu/pdfcpu) ⭐ 8,795 | 🐛 112 | 🌐 Go | 📅 2026-08-20
+* [PDF Arranger](https://github.com/pdfarranger/pdfarranger) ⭐ 5,803 | 🐛 83 | 🌐 Python | 📅 2026-08-14 - PDF editor for splitting, merging. 🪟 🐧 [🟢](https://github.com/pdfarranger/pdfarranger) ⭐ 5,803 | 🐛 83 | 🌐 Python | 📅 2026-08-14
+* [qpdf](https://qpdf.sourceforge.io) - A content-preserving PDF document transformer. 🪟 🍎 🐧 [🟢](https://github.com/qpdf/qpdf) ⭐ 5,346 | 🐛 172 | 🌐 C++ | 📅 2026-08-22
+* [PDFsam](https://pdfsam.org) - Extract pages, split, merge, mix and rotate PDF files. 🪟 🍎 🐧 [🟢](https://github.com/torakiki/pdfsam) ⭐ 4,546 | 🐛 123 | 🌐 Java | 📅 2026-08-10
+* [MuPDF](https://mupdf.com) - Powerful PDF viewer. 🪟 🐧 [🟢](https://github.com/ArtifexSoftware/mupdf) ⭐ 2,927 | 🐛 14 | 🌐 C | 📅 2026-08-22
+* [Okular](https://okular.kde.org) - Universal document viewer by KDE. 🪟 🍎 🐧 [🟢](https://github.com/KDE/okular) ⭐ 1,486 | 🐛 0 | 🌐 C++ | 📅 2026-08-23
 * [Skim](https://skim-app.sourceforge.io) - PDF viewer for annotation. 🍎 [🟢](https://github.com/JackieXie168/skim) ⭐ 95 | 🐛 4 | 🌐 Objective-C | 📅 2020-12-09
 * [qpdfview](https://launchpad.net/qpdfview) - Tabbed document viewer. 🐧 [🟢](https://github.com/bendikro/qpdfview) ⭐ 68 | 🐛 0 | 🌐 C++ | 📅 2019-03-05
-* [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf) ⭐ 14 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-17
+* [OffPDF](https://offpdf.com) - Private, offline PDF toolbox for organizing, converting, compressing, OCR, and more. 🪟 🍎 [🟢](https://github.com/McanKul/offpdf) ⭐ 15 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-17
 * [Foxit PDF Reader](https://foxit.com/pdf-reader) - PDF viewer with annotations. 🪟 🍎
 * [PDF24](https://pdf24.org/en) - Easy PDF tools. 🪟
 * [PDFGear](https://www.pdfgear.com) - Read, edit, convert, merge, and sign PDF files across devices. 🪟 🍎
@@ -400,18 +400,18 @@
 
 ## Note Taking
 
-* [Joplin](https://joplinapp.org) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 [🟢](https://github.com/laurent22/joplin) ⭐ 56,052 | 🐛 622 | 🌐 TypeScript | 📅 2026-08-22
-* [Logseq](https://github.com/logseq/logseq) ⭐ 44,558 | 🐛 958 | 🌐 Clojure | 📅 2026-08-22 - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 [🟢](https://github.com/logseq/logseq) ⭐ 44,558 | 🐛 958 | 🌐 Clojure | 📅 2026-08-22
-* [Trilium Notes](https://triliumnotes.org) - Organize your thoughts. Build your personal knowledge base. 🪟 🍎 🐧 [🟢](https://github.com/TriliumNext/Trilium) ⭐ 37,549 | 🐛 687 | 🌐 TypeScript | 📅 2026-08-22
-* [Xournal++](https://xournalpp.github.io) - Take handwritten notes with ease. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp) ⭐ 15,265 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-16
-* [RNote](https://rnote.flxzt.net/) - Sketch and take handwritten notes. . 🪟 🍎 🐧 [🟢](https://github.com/flxzt/rnote) ⭐ 11,574 | 🐛 449 | 🌐 Rust | 📅 2026-08-16
-* [Simplenote](https://simplenote.com) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/simplenote-electron) ⭐ 5,264 | 🐛 276 | 🌐 TypeScript | 📅 2026-08-17
+* [Joplin](https://joplinapp.org) - Capture your thoughts and securely access them from any device. 🪟 🍎 🐧 [🟢](https://github.com/laurent22/joplin) ⭐ 56,066 | 🐛 624 | 🌐 TypeScript | 📅 2026-08-23
+* [Logseq](https://github.com/logseq/logseq) ⭐ 44,576 | 🐛 959 | 🌐 Clojure | 📅 2026-08-23 - Privacy-first, open-source platform for knowledge management and collaboration. 🪟 🍎 🐧 [🟢](https://github.com/logseq/logseq) ⭐ 44,576 | 🐛 959 | 🌐 Clojure | 📅 2026-08-23
+* [Trilium Notes](https://triliumnotes.org) - Organize your thoughts. Build your personal knowledge base. 🪟 🍎 🐧 [🟢](https://github.com/TriliumNext/Trilium) ⭐ 37,557 | 🐛 688 | 🌐 TypeScript | 📅 2026-08-23
+* [Xournal++](https://xournalpp.github.io) - Take handwritten notes with ease. 🪟 🍎 🐧 [🟢](https://github.com/xournalpp/xournalpp) ⭐ 15,270 | 🐛 1,232 | 🌐 C++ | 📅 2026-08-23
+* [RNote](https://rnote.flxzt.net/) - Sketch and take handwritten notes. . 🪟 🍎 🐧 [🟢](https://github.com/flxzt/rnote) ⭐ 11,576 | 🐛 450 | 🌐 Rust | 📅 2026-08-16
+* [Simplenote](https://simplenote.com) - Minimalist note-taking app that syncs across devices. 🪟 🍎 🐧 [🟢](https://github.com/Automattic/simplenote-electron) ⭐ 5,265 | 🐛 276 | 🌐 TypeScript | 📅 2026-08-17
 * [Bangle.io](https://bangle.io) - Local-first WYSIWYG note-taking app that keeps notes as portable Markdown files. 🪟 🍎 🐧 [🟢](https://github.com/bangle-io/bangle-io) ⭐ 1,229 | 🐛 15 | 🌐 TypeScript | 📅 2026-08-09
 * [fylepad](https://fylepad.vercel.app) - Lightweight notepad with powerful rich-text editing. 🪟 🍎 🐧 [🟢](https://github.com/imrofayel/fylepad) ⭐ 304 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-09
 * [plumio](https://plumio.app) - Privacy-first, open-source, self-hostable notes-taking app. 🪟 🍎 🐧 [🟢](https://github.com/albertasaftei/plumio) ⭐ 136 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-11
 * [qnote](https://github.com/Omibranch/qnote) ⚠️ Archived - Minimal frameless notepad with Markdown preview, real PDF export via Typst, OCR via Tesseract, and automatic version history. 🐧 [🟢](https://github.com/Omibranch/qnote) ⚠️ Archived
 * [Inkless](https://github.com/Axorax/inkless) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-26 - Minimal, shortcut based app to take notes and use for light coding. 🪟 [🟢](https://github.com/Axorax/inkless) ⭐ 83 | 🐛 2 | 🌐 JavaScript | 📅 2025-02-26 ⭐
-* [Knopo](https://github.com/alkalim/Knopo) ⭐ 25 | 🐛 0 | 🌐 Swift | 📅 2026-08-17 - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo) ⭐ 25 | 🐛 0 | 🌐 Swift | 📅 2026-08-17
+* [Knopo](https://github.com/alkalim/Knopo) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-08-17 - Local-first outliner for plain Markdown notes with backlinks, page/block references, and graph-friendly files. 🍎 [🟢](https://github.com/alkalim/Knopo) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-08-17
 * [Obsidian](https://obsidian.md) - Knowledge base app with powerful linking and markdown support. 🪟 🍎 🐧 ⭐
 * [Craft Docs](https://craft.do) - Beautiful and powerful tool for creating and organizing documents and notes. 🪟 🍎
 * [Notion](https://notion.so) - All-in-one workspace for notes, tasks, databases, and collaboration. 🪟 🍎 🐧
@@ -422,26 +422,26 @@
 
 ## Text Editors
 
-* [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐ 189,270 | 🐛 20,126 | 🌐 TypeScript | 📅 2026-08-22 ⭐
-* [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim) ⭐ 101,908 | 🐛 1,873 | 🌐 Vim Script | 📅 2026-08-22
-* [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed) ⭐ 89,050 | 🐛 3,225 | 🌐 Rust | 📅 2026-08-22
+* [Visual Studio Code](https://code.visualstudio.com) - Code editor with debugging, integrated Git support, and a vast extension marketplace. 🪟 🍎 🐧 [🟢](https://github.com/microsoft/vscode) ⭐ 189,343 | 🐛 20,107 | 🌐 TypeScript | 📅 2026-08-23 ⭐
+* [Neovim](https://neovim.io) - Advanced Vim-based text editor with improved extensibility, plugins, and modern features. 🪟 🍎 🐧 [🟢](https://github.com/neovim/neovim) ⭐ 101,919 | 🐛 1,862 | 🌐 Vim Script | 📅 2026-08-23
+* [Zed](https://zed.dev) - High-performance, collaborative editor designed for speed, real-time collaboration, and custom workflows. 🍎 🐧 [🟢](https://github.com/zed-industries/zed) ⭐ 89,101 | 🐛 3,241 | 🌐 Rust | 📅 2026-08-23
 * [Atom](https://atom.io) - Highly customizable editor with Git integration, real-time collaboration, and extensive plugins. 🪟 🍎 🐧 [🟢](https://github.com/atom/atom) ⚠️ Archived
-* [Helix](https://helix-editor.com) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧 [🟢](https://github.com/helix-editor/helix) ⭐ 45,915 | 🐛 1,621 | 🌐 Rust | 📅 2026-08-18
-* [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim) ⭐ 40,785 | 🐛 1,633 | 🌐 Vim Script | 📅 2026-08-22
-* [Lapce](https://lapce.dev) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧 [🟢](https://github.com/lapce/lapce) ⭐ 38,762 | 🐛 898 | 🌐 Rust | 📅 2026-07-15
-* [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium) ⭐ 32,935 | 🐛 139 | 🌐 Shell | 📅 2026-08-12
-* [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧 [🟢](https://github.com/zyedidia/micro) ⭐ 29,416 | 🐛 1,033 | 🌐 Go | 📅 2026-08-22
-* [Notepad++](https://notepad-plus-plus.org) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 [🟢](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,088 | 🐛 2,914 | 🌐 C++ | 📅 2026-08-20
-* [CodeEdit](https://codeedit.app) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 [🟢](https://github.com/CodeEditApp/CodeEdit) ⭐ 22,992 | 🐛 211 | 🌐 Swift | 📅 2026-08-18
+* [Helix](https://helix-editor.com) - Modal text editor with powerful text manipulation, multiple cursors, and a modern UI. 🪟 🍎 🐧 [🟢](https://github.com/helix-editor/helix) ⭐ 45,920 | 🐛 1,621 | 🌐 Rust | 📅 2026-08-18
+* [Vim](https://www.vim.org) - Efficient command-line editor with powerful keyboard shortcuts and multi-file editing. 🪟 🍎 🐧 [🟢](https://github.com/vim/vim) ⭐ 40,787 | 🐛 1,628 | 🌐 Vim Script | 📅 2026-08-23
+* [Lapce](https://lapce.dev) - Fast, extensible editor with built-in support for multiple languages and advanced editing features. 🪟 🍎 🐧 [🟢](https://github.com/lapce/lapce) ⭐ 38,765 | 🐛 898 | 🌐 Rust | 📅 2026-07-15
+* [VSCodium](https://vscodium.com) - Community-built VS Code binaries without Microsoft branding, telemetry, or licensing changes. 🪟 🍎 🐧 [🟢](https://github.com/VSCodium/vscodium) ⭐ 32,950 | 🐛 139 | 🌐 Shell | 📅 2026-08-12
+* [micro](https://micro-editor.github.io) - Simple, modern terminal-based editor with support for mouse interaction and plugin extensions. 🪟 🍎 🐧 [🟢](https://github.com/zyedidia/micro) ⭐ 29,427 | 🐛 1,033 | 🌐 Go | 📅 2026-08-23
+* [Notepad++](https://notepad-plus-plus.org) - Editor with customizable syntax highlighting, multi-line editing, and plugin support. 🪟 [🟢](https://github.com/notepad-plus-plus/notepad-plus-plus) ⭐ 29,090 | 🐛 2,912 | 🌐 C++ | 📅 2026-08-23
+* [CodeEdit](https://codeedit.app) - Native macOS editor with live preview, Git integration, and Markdown support. 🍎 [🟢](https://github.com/CodeEditApp/CodeEdit) ⭐ 22,994 | 🐛 211 | 🌐 Swift | 📅 2026-08-18
 * [TextMate](https://macromates.com) - Editor with project management, language bundles, and customizable macros. 🍎 [🟢](https://github.com/textmate/textmate) ⭐ 14,568 | 🐛 22 | 🌐 Objective-C++ | 📅 2024-05-18
 * [LightTable](http://lighttable.com) - Code editor offering real-time feedback and live execution of code in an interactive environment. 🪟 🍎 🐧 [🟢](https://github.com/LightTable/LightTable) ⚠️ Archived
-* [CotEditor](https://coteditor.com) - Text editor with syntax highlighting, snippets, and regular expression search. 🍎 [🟢](https://github.com/coteditor/CotEditor) ⭐ 8,397 | 🐛 16 | 🌐 Swift | 📅 2026-08-20
+* [CotEditor](https://coteditor.com) - Text editor with syntax highlighting, snippets, and regular expression search. 🍎 [🟢](https://github.com/coteditor/CotEditor) ⭐ 8,400 | 🐛 17 | 🌐 Swift | 📅 2026-08-20
 * [Vimr](http://vimr.org) - Editor offering a refined Vim experience with enhanced UI and modern features. 🍎 [🟢](https://github.com/qvacua/vimr) ⭐ 6,986 | 🐛 314 | 🌐 Swift | 📅 2026-07-26
-* [Notepad 3](https://rizonesoft.com/downloads/notepad3) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 [🟢](https://github.com/rizonesoft/Notepad3) ⭐ 6,596 | 🐛 141 | 🌐 C | 📅 2026-08-21
-* [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 5,500 | 🐛 4 | 🌐 Swift | 📅 2026-08-22 - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
-* [Emacs](https://gnu.org/software/emacs) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 [🟢](https://github.com/emacs-mirror/emacs) ⭐ 5,169 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-08-22
-* [Geany](https://geany.org) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧 [🟢](https://github.com/geany/geany) ⭐ 3,697 | 🐛 1,269 | 🌐 C | 📅 2026-08-03
-* [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate) ⭐ 2,088 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22
+* [Notepad 3](https://rizonesoft.com/downloads/notepad3) - Fast and light-weight Scintilla-based text editor with syntax highlighting. 🪟 [🟢](https://github.com/rizonesoft/Notepad3) ⭐ 6,600 | 🐛 142 | 🌐 C | 📅 2026-08-21
+* [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) ⭐ 5,502 | 🐛 4 | 🌐 Swift | 📅 2026-08-23 - Native Markdown editor for macOS with a TextEdit-like workflow and local-file editing. 🍎 🟢
+* [Emacs](https://gnu.org/software/emacs) - Customizable editor with robust scripting, project management, and multi-language support. 🪟 🍎 🐧 [🟢](https://github.com/emacs-mirror/emacs) ⭐ 5,166 | 🐛 16 | 🌐 Emacs Lisp | 📅 2026-08-23
+* [Geany](https://geany.org) - Lightweight editor with built-in terminal, project management, and syntax highlighting for many languages. 🪟 🍎 🐧 [🟢](https://github.com/geany/geany) ⭐ 3,696 | 🐛 1,269 | 🌐 C | 📅 2026-08-03
+* [Cate](https://cate.cero-ai.com) - Code editor on an infinite zoomable canvas where editors, terminals, browsers, and AI agent panels float in a spatial workspace, with docking, detachable windows, and per-project layout persistence. 🪟 🍎 🐧 [🟢](https://github.com/0-AI-UG/cate) ⭐ 2,088 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-23
 * [Brackets](https://brackets.io) - Web-focused editor with live preview, CSS preprocessor support, and inline editing for HTML. 🪟 🍎 🐧 [🟢](https://github.com/brackets-cont/brackets) ⭐ 1,513 | 🐛 78 | 🌐 JavaScript | 📅 2026-03-30
 * [SubEthaEdit](https://subethaedit.net) - Collaborative text editor enabling real-time editing with multiple users. 🍎 [🟢](https://github.com/subethaedit/SubEthaEdit) ⭐ 1,431 | 🐛 93 | 🌐 Objective-C | 📅 2025-11-09
 * [Haystack Editor](https://haystackeditor.com) - Visual editor with a canvas UI to help navigate and understand code structure. 🪟 🍎 🐧 [🟢](https://github.com/haystackeditor/haystack-editor) ⭐ 1,284 | 🐛 31 | 🌐 TypeScript | 📅 2025-02-17
@@ -455,23 +455,23 @@
 
 ## Download Managers
 
-* [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix) ⭐ 54,319 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-22
-* [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 [🟢](https://github.com/aria2/aria2) ⭐ 41,787 | 🐛 1,160 | 🌐 C++ | 📅 2026-06-25
-* [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 [🟢](https://github.com/amir1376/ab-download-manager) ⭐ 17,404 | 🐛 438 | 🌐 Kotlin | 📅 2026-08-19 ⭐
-* [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission) ⭐ 15,123 | 🐛 849 | 🌐 C++ | 📅 2026-08-22
+* [Motrix](https://motrix.app) - Simple and clean download manager with cross-platform support. 🪟 🍎 🐧 [🟢](https://github.com/agalwood/Motrix) ⭐ 54,401 | 🐛 120 | 🌐 TypeScript | 📅 2026-08-23
+* [Aria2](https://aria2.github.io) - Lightweight, command-line download utility supporting multiple protocols. 🪟 🍎 🐧 [🟢](https://github.com/aria2/aria2) ⭐ 41,796 | 🐛 1,160 | 🌐 C++ | 📅 2026-06-25
+* [AB Download Manager](https://abdownloadmanager.com) - Easily download files from anywhere. 🪟 🐧 [🟢](https://github.com/amir1376/ab-download-manager) ⭐ 17,420 | 🐛 438 | 🌐 Kotlin | 📅 2026-08-22 ⭐
+* [Transmission](https://transmissionbt.com) - Lightweight BitTorrent client with native desktop, daemon, and web interfaces. 🪟 🍎 🐧 [🟢](https://github.com/transmission/transmission) ⭐ 15,130 | 🐛 846 | 🌐 C++ | 📅 2026-08-23
 * [Xtreme Download Manager (XDM)](https://xtremedownloadmanager.com) - Powerful tool to increase download speed. 🪟 🍎 🐧 [🟢](https://github.com/subhra74/xdm) ⭐ 7,882 | 🐛 852 | 🌐 C# | 📅 2024-01-23
-* [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis) ⭐ 7,435 | 🐛 319 | 🌐 Python | 📅 2025-10-09
-* [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown) ⭐ 2,506 | 🐛 311 | 🌐 Rust | 📅 2026-08-20
+* [Persepolis Download Manager](https://persepolisdm.github.io) - GUI for Aria2, providing an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/persepolisdm/persepolis) ⭐ 7,436 | 🐛 319 | 🌐 Python | 📅 2025-10-09
+* [FluxDown](https://fluxdown.zerx.dev) - Multi-protocol download manager with IDM-style dynamic segmentation, covering HTTP, FTP, BitTorrent, eD2K, HLS and DASH. 🪟 🍎 🐧 [🟢](https://github.com/zerx-lab/FluxDown) ⭐ 2,545 | 🐛 311 | 🌐 Rust | 📅 2026-08-23
 * [Free Download Manager](https://freedownloadmanager.org) - Modern download accelerator. 🪟 🍎 🐧 ⭐
 * [Download Master](https://downloadmaster.com) - Download manager by WestByte. 🪟
 * [JDownloader](https://jdownloader.org) - Popular download manager. 🪟 🍎 🐧 [🟢](https://support.jdownloader.org/en/knowledgebase/article/setup-ide-eclipse)
 
 ## Games
 
-* [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite) ⭐ 13,802 | 🐛 707 | 🌐 C# | 📅 2026-08-21
-* [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🍎 🐧 [🟢](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,051 | 🐛 885 | 🌐 TypeScript | 📅 2026-08-18
-* [Lutris](https://lutris.net) - Open-source game manager for Linux. 🐧 [🟢](https://github.com/lutris/lutris) ⭐ 10,164 | 🐛 300 | 🌐 Python | 📅 2026-08-21
-* [ProtonUp-Qt](https://davidotek.github.io/protonup-qt) - Tool for managing Proton/Wine compatibility. 🐧 [🟢](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,018 | 🐛 75 | 🌐 Python | 📅 2026-08-16
+* [Playnite](https://playnite.link) - Unified game library manager. 🪟 [🟢](https://github.com/JosefNemec/Playnite) ⭐ 13,811 | 🐛 708 | 🌐 C# | 📅 2026-08-21
+* [Heroic Games Launcher](https://heroicgameslauncher.com) - Launcher for Epic, GOG. 🪟 🍎 🐧 [🟢](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ⭐ 12,057 | 🐛 885 | 🌐 TypeScript | 📅 2026-08-18
+* [Lutris](https://lutris.net) - Open-source game manager for Linux. 🐧 [🟢](https://github.com/lutris/lutris) ⭐ 10,170 | 🐛 299 | 🌐 Python | 📅 2026-08-22
+* [ProtonUp-Qt](https://davidotek.github.io/protonup-qt) - Tool for managing Proton/Wine compatibility. 🐧 [🟢](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,020 | 🐛 75 | 🌐 Python | 📅 2026-08-16
 * [Steam](https://store.steampowered.com) - Platform for buying and playing PC games. 🪟 🍎 🐧 ⭐
 * [Amazon Games](https://gaming.amazon.com) - Platform for Prime Gaming titles. 🪟
 * [Battle.net](https://blizzard.com/en-us/apps/battle.net/desktop) - Platform for Blizzard games. 🪟 🍎
@@ -503,13 +503,13 @@
 * [KoPlayer](https://koplayerpc.com) - Android emulator optimized for gaming and streaming. 🪟
 * [MEmu Play](https://memuplay.com) - Powerful Android emulator with excellent gaming support. 🪟
 * [NoxPlayer](https://bignox.com) - Android emulator optimized for mobile gaming on desktop. 🪟 🍎
-* [Waydroid](https://waydro.id) - Container-based approach to boot a full Android system. 🐧 [🟢](https://github.com/waydroid/waydroid) ⭐ 12,024 | 🐛 933 | 🌐 Python | 📅 2026-08-01
+* [Waydroid](https://waydro.id) - Container-based approach to boot a full Android system. 🐧 [🟢](https://github.com/waydroid/waydroid) ⭐ 12,029 | 🐛 933 | 🌐 Python | 📅 2026-08-01
 
 ## Other Emulators
 
-* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 13,551 | 🐛 3,003 | 🌐 C | 📅 2026-08-22 - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
-* [DuckStation](https://github.com/stenzek/duckstation) ⭐ 10,561 | 🐛 77 | 🌐 C++ | 📅 2026-08-22 - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
-* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) ⭐ 982 | 🐛 152 | 🌐 C++ | 📅 2026-08-21 - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
+* [RetroArch](https://github.com/libretro/RetroArch) ⭐ 13,561 | 🐛 3,007 | 🌐 C | 📅 2026-08-23 - Open-source, cross-platform emulator that allows to play games from a wide variety of retro gaming consoles and platforms. 🪟 🍎 🐧 🟢 ⭐
+* [DuckStation](https://github.com/stenzek/duckstation) ⭐ 10,566 | 🐛 77 | 🌐 C++ | 📅 2026-08-23 - PlayStation 1 emulator with focus on speed, accuracy, and modern enhancements. 🪟 🍎 🐧 🟢
+* [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux) ⭐ 983 | 🐛 152 | 🌐 C++ | 📅 2026-08-21 - PlayStation 1 emulator aimed at advanced debugging and better game compatibility. 🪟 🐧 🟢
 * [PPSSPP](https://ppsspp.org) - PSP emulator for any OS. 🪟 🍎 🐧
 * [Dolphin](https://dolphin-emu.org) - GameCube and Wii emulator. 🪟 🍎 🐧
 * [PCSX2](https://pcsx2.net) - PlayStation 2 emulator with compatibility for most games. 🪟 🍎 🐧
@@ -527,8 +527,8 @@
 
 ## Graphics Tools
 
-* [Draw.io](https://github.com/jgraph/drawio-desktop) ⭐ 62,744 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-22 - Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢
-* [Open Photo AI](https://github.com/vegidio/open-photo-ai) ⭐ 165 | 🐛 10 | 🌐 Go | 📅 2026-08-22 - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
+* [Draw.io](https://github.com/jgraph/drawio-desktop) ⭐ 62,758 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-22 - Desktop app for creating diagrams and flowcharts. 🪟 🍎 🐧 🟢
+* [Open Photo AI](https://github.com/vegidio/open-photo-ai) ⭐ 165 | 🐛 9 | 🌐 Go | 📅 2026-08-23 - An open source alternative to the popular photo AI editor. 🪟 🍎 🐧 🟢
 * [GIMP](https://gimp.org) - Versatile image editor for tasks like photo manipulation and graphic design. 🪟 🍎 🐧 🟢 ⭐
 * [Inkscape](https://inkscape.org/en) - Vector graphics editor used for creating logos, illustrations, and more. 🪟 🍎 🐧 🟢 ⭐
 * [Krita](https://krita.org) - Digital painting software designed for illustrators and concept artists. 🪟 🍎 🐧 🟢 ⭐
@@ -597,8 +597,8 @@
 
 ## Remote Access
 
-* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 40,422 | 🐛 148 | 🌐 C++ | 📅 2026-08-22 - Self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧 🟢
-* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,357 | 🐛 554 | 🌐 C++ | 📅 2026-08-19 - GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🍎 🐧 🟢
+* [Sunshine](https://github.com/LizardByte/Sunshine) ⭐ 40,461 | 🐛 146 | 🌐 C++ | 📅 2026-08-23 - Self-hosted game streaming server for use with Moonlight. 🪟 🍎 🐧 🟢
+* [Moonlight](https://github.com/moonlight-stream/moonlight-qt) ⭐ 18,373 | 🐛 555 | 🌐 C++ | 📅 2026-08-19 - GameStream client for Windows, Mac, Linux, and Steam Link. 🪟 🍎 🐧 🟢
 * [AnyDesk](https://anydesk.com) - Remote access solution for multiple devices, providing fast and secure connections. 🪟 🍎 🐧
 * [Parsec](https://parsec.app) - High-performance remote desktop solution with 4k streaming at 60fps and low latency. 🪟 🍎 🐧
 * [RoyalTSX](https://royalapps.com/ts/mac/features) - Remote access tool for IT professionals, supporting multiple protocols. 🍎
@@ -616,11 +616,11 @@
 
 ### Video Editors
 
-* [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut) ⭐ 43,118 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-21
-* [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut) ⭐ 14,963 | 🐛 57 | 🌐 C++ | 📅 2026-08-22
+* [lossless-cut](https://losslesscut.app) - Swiss army knife of lossless video/audio editing. 🪟 🍎 🐧 [🟢](https://github.com/mifi/lossless-cut) ⭐ 43,137 | 🐛 296 | 🌐 TypeScript | 📅 2026-08-21
+* [Shotcut](https://shotcut.org) - Video editor with a wide range of features. 🪟 🍎 🐧 [🟢](https://github.com/mltframework/shotcut) ⭐ 14,974 | 🐛 57 | 🌐 C++ | 📅 2026-08-22
 * [Olive Video Editor](https://olivevideoeditor.org) - Non-linear video editor with powerful features and an intuitive interface. 🪟 🍎 🐧 [🟢](https://github.com/olive-editor/olive) ⭐ 9,119 | 🐛 158 | 🌐 C++ | 📅 2024-12-05
-* [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 [🟢](https://github.com/OpenShot/openshot-qt) ⭐ 6,187 | 🐛 407 | 🌐 Python | 📅 2026-08-17
-* [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 [🟢](https://github.com/KDE/kdenlive) ⭐ 5,499 | 🐛 0 | 🌐 C++ | 📅 2026-08-22
+* [OpenShot](https://openshot.org) - Easy-to-use video editor with support for multiple video tracks. 🪟 🍎 🐧 [🟢](https://github.com/OpenShot/openshot-qt) ⭐ 6,190 | 🐛 407 | 🌐 Python | 📅 2026-08-23
+* [Kdenlive](https://kdenlive.org/en) - Video editor with multi-track editing and a powerful interface. 🪟 🍎 🐧 [🟢](https://github.com/KDE/kdenlive) ⭐ 5,507 | 🐛 0 | 🌐 C++ | 📅 2026-08-23
 * [Avidemux](https://avidemux.sourceforge.net) - Video editor designed for simple cutting, filtering and encoding tasks. 🪟 🍎 🐧 [🟢](https://github.com/mean00/avidemux2) ⭐ 958 | 🐛 37 | 🌐 C | 📅 2026-08-20
 * [DaVinci Resolve](https://blackmagicdesign.com/products/davinciresolve) - Professional video editor with advanced color correction and effects. 🪟 🍎 🐧 ⭐
 * [Capcut Desktop](https://capcut.com/tools/desktop-video-editor) - Simple video editor with many builtin effects. 🪟 🍎
@@ -637,7 +637,7 @@
 * [KMPlayer](https://kmplayer.com) - Media player supporting various video formats and streaming protocols. 🪟 🍎
 * [Kodi](https://kodi.tv) - Media center that allows you to play and view most videos, music, podcasts, and other digital media files. 🪟 🍎 🐧 🟢
 * [MPV](https://mpv.io) - Cross-platform media player with a simple interface. 🪟 🍎 🐧 🟢
-* [MPC-HC](https://github.com/clsid2/mpc-hc) ⭐ 15,505 | 🐛 3 | 🌐 C++ | 📅 2026-08-22 - Lightweight video player with support for all common formats. 🪟 🟢
+* [MPC-HC](https://github.com/clsid2/mpc-hc) ⭐ 15,513 | 🐛 4 | 🌐 C++ | 📅 2026-08-23 - Lightweight video player with support for all common formats. 🪟 🟢
 * [RealPlayer](https://real.com) - Versatile media player for playing videos and streaming. 🪟 🍎
 * [Stremio](https://stremio.com) - Provides a secure, modern and seamless entertainment experience. 🪟 🍎 🐧
 * [ScreenBox](https://apps.microsoft.com/detail/9ntsnmsvcb5l?hl=en-US\&gl=US) - Basically VLC but with a modern UI. 🪟
@@ -647,8 +647,8 @@
 
 ### Video Streaming and Recording
 
-* [ScreenToGif](https://www.screentogif.com) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,534 | 🐛 329 | 🌐 C# | 📅 2026-07-28
-* [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) ⭐ 14,033 | 🐛 1,160 | 🌐 C | 📅 2024-12-24 - RTMP streaming server built with NGINX. 🐧 🟢
+* [ScreenToGif](https://www.screentogif.com) - Record, edit, and create animated GIFs from your screen. 🪟 [🟢](https://github.com/NickeManarin/ScreenToGif) ⭐ 27,542 | 🐛 330 | 🌐 C# | 📅 2026-07-28
+* [Nginx RTMP](https://github.com/arut/nginx-rtmp-module) ⭐ 14,034 | 🐛 1,160 | 🌐 C | 📅 2024-12-24 - RTMP streaming server built with NGINX. 🐧 🟢
 * [Livestreamer](https://github.com/chrippa/livestreamer) ⭐ 3,864 | 🐛 660 | 🌐 Python | 📅 2022-08-29 - Command-line tool to stream video from multiple platforms. 🪟 🍎 🐧 🟢
 * [OBS Studio](https://obsproject.com) - Software for live streaming and recording video. 🪟 🍎 🐧 🟢 ⭐
 * [Jitsi Meet](https://jitsi.org/jitsi-meet) - Video conferencing and live streaming with ease. 🪟 🍎 🐧 🟢
@@ -673,13 +673,13 @@
 
 ## VPN and Proxy Tools
 
-* [v2rayN](https://github.com/2dust/v2rayN) ⭐ 114,434 | 🐛 15 | 🌐 C# | 📅 2026-08-22 - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
-* [FlClash](https://github.com/chen08209/FlClash) ⭐ 49,614 | 🐛 609 | 🌐 Dart | 📅 2026-08-21 - Multi-platform proxy client based on ClashMeta.  🪟 🍎 🐧 🟢
-* [Sing-box](https://github.com/SagerNet/sing-box) ⭐ 37,206 | 🐛 284 | 🌐 Go | 📅 2026-08-21 - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
-* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ⭐ 32,881 | 🐛 306 | 🌐 Swift | 📅 2024-10-29 - Modern Shadowsocks client for enhanced security. 🍎 🟢
-* [Hiddify](https://github.com/hiddify/hiddify-app) ⭐ 32,324 | 🐛 46 | 🌐 Dart | 📅 2026-08-10 - Multi-platform proxy toolchain.  🪟 🍎 🐧 🟢
-* [Algo](https://github.com/trailofbits/algo) ⭐ 30,358 | 🐛 79 | 🌐 Python | 📅 2026-08-19 - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
-* [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,275 | 🐛 64 | 🌐 Objective-C | 📅 2026-08-21 - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢
+* [v2rayN](https://github.com/2dust/v2rayN) ⭐ 114,503 | 🐛 15 | 🌐 C# | 📅 2026-08-22 - Open source GUI for Xray and Sing-box. 🪟 🍎 🐧 🟢
+* [FlClash](https://github.com/chen08209/FlClash) ⭐ 49,696 | 🐛 609 | 🌐 Dart | 📅 2026-08-21 - Multi-platform proxy client based on ClashMeta.  🪟 🍎 🐧 🟢
+* [Sing-box](https://github.com/SagerNet/sing-box) ⭐ 37,216 | 🐛 284 | 🌐 Go | 📅 2026-08-23 - Universal proxy platform supporting multiple protocols. 🪟 🍎 🐧 🟢
+* [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) ⭐ 32,883 | 🐛 306 | 🌐 Swift | 📅 2024-10-29 - Modern Shadowsocks client for enhanced security. 🍎 🟢
+* [Hiddify](https://github.com/hiddify/hiddify-app) ⭐ 32,351 | 🐛 46 | 🌐 Dart | 📅 2026-08-10 - Multi-platform proxy toolchain.  🪟 🍎 🐧 🟢
+* [Algo](https://github.com/trailofbits/algo) ⭐ 30,360 | 🐛 79 | 🌐 Python | 📅 2026-08-19 - Simple IPSEC VPN setup for secure cloud connections. 🪟 🍎 🐧 🟢
+* [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) ⭐ 3,275 | 🐛 63 | 🌐 Objective-C | 📅 2026-08-23 - Easy-to-use OpenVPN client with a macOS-friendly interface. 🍎 🟢
 * [SpechtLite](https://github.com/zhuhaow/SpechtLite) ⚠️ Archived - Minimal proxy tool using rule-based configuration. 🍎 🟢
 * [Specht](https://github.com/zhuhaow/Specht) ⚠️ Archived - Rule-based proxy with Network Extension support. 🍎 🟢
 * [MoonProxy](https://moonproxy.app/en/) - GUI client for FRP (fast reverse proxy) to expose local services to the internet. 🪟 🍎 [🟢](https://github.com/MoonProxyHQ/moonproxy-desktop) ⭐ 56 | 🐛 0 | 🌐 Vue | 📅 2026-07-27
@@ -696,26 +696,26 @@
 
 ## Utility
 
-* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 186,260 | 🐛 2,603 | 🌐 Python | 📅 2026-08-20 - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐ 186,260 | 🐛 2,603 | 🌐 Python | 📅 2026-08-20 ⭐
-* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐ 137,964 | 🐛 7,514 | 🌐 C | 📅 2026-08-22 ⭐
-* [Stats](https://mac-stats.com) - Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 [🟢](https://github.com/exelban/stats) ⭐ 41,362 | 🐛 30 | 🌐 Swift | 📅 2026-08-21
-* [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher) ⭐ 34,208 | 🐛 685 | 🌐 TypeScript | 📅 2026-06-02
-* [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl) ⭐ 34,011 | 🐛 23 | 🌐 Swift | 📅 2026-08-11
-* [Windterm](https://github.com/kingToolbox/WindTerm) ⭐ 32,027 | 🐛 2,446 | 🌐 C | 📅 2025-03-11 - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
-* [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI) ⭐ 25,725 | 🐛 470 | 🌐 C# | 📅 2026-08-21
-* [Hammerspoon](https://www.hammerspoon.org) - macOS automation tool for scripting windows, input devices, menus, and system behavior with Lua. 🍎 [🟢](https://github.com/Hammerspoon/hammerspoon) ⭐ 15,968 | 🐛 686 | 🌐 Objective-C | 📅 2026-07-08
-* [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐ 12,995 | 🐛 22 | 🌐 C++ | 📅 2026-08-16 ⭐
+* [yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 186,467 | 🐛 2,604 | 🌐 Python | 📅 2026-08-20 - Command-line tool for downloading audio and video. 🪟 🍎 🐧 [🟢](https://github.com/yt-dlp/yt-dlp) ⭐ 186,467 | 🐛 2,604 | 🌐 Python | 📅 2026-08-20 ⭐
+* [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys) - Utilities for file renaming, resizing, and productivity tools. 🪟 [🟢](https://github.com/microsoft/PowerToys) ⭐ 138,007 | 🐛 7,521 | 🌐 C | 📅 2026-08-22 ⭐
+* [Stats](https://mac-stats.com) - Menu bar system monitor showing CPU, memory, disk, network, sensors, battery, and fan data. 🍎 [🟢](https://github.com/exelban/stats) ⭐ 41,384 | 🐛 23 | 🌐 Swift | 📅 2026-08-23
+* [balenaEtcher](https://etcher.balena.io) - Tool for safely flashing OS images to SD cards and USB drives. 🪟 🍎 🐧 [🟢](https://github.com/balena-io/etcher) ⭐ 34,217 | 🐛 685 | 🌐 TypeScript | 📅 2026-06-02
+* [MonitorControl](https://monitorcontrol.app) - Controls external display brightness, volume, and contrast from macOS keyboard shortcuts and menu bar. 🍎 [🟢](https://github.com/MonitorControl/MonitorControl) ⭐ 34,018 | 🐛 23 | 🌐 Swift | 📅 2026-08-11
+* [Windterm](https://github.com/kingToolbox/WindTerm) ⭐ 32,032 | 🐛 2,446 | 🌐 C | 📅 2025-03-11 - SSH/Telnet/Serial/Shell/Sftp client for DevOps.  🪟 🍎 🐧 🟢
+* [UniGetUI](https://www.marticliment.com/unigetui) - UI for popular package managers like  Winget, NPM, and more. 🪟 [🟢](https://github.com/marticliment/UniGetUI) ⭐ 25,740 | 🐛 470 | 🌐 C# | 📅 2026-08-23
+* [Hammerspoon](https://www.hammerspoon.org) - macOS automation tool for scripting windows, input devices, menus, and system behavior with Lua. 🍎 [🟢](https://github.com/Hammerspoon/hammerspoon) ⭐ 15,973 | 🐛 686 | 🌐 Objective-C | 📅 2026-07-08
+* [AutoHotkey](https://autohotkey.com) - Scripting language for task automation and custom hotkeys. 🪟 [🟢](https://github.com/AutoHotkey/AutoHotkey) ⭐ 12,998 | 🐛 22 | 🌐 C++ | 📅 2026-08-16 ⭐
 * [Locale Emulator](https://github.com/xupefei/Locale-Emulator) ⚠️ Archived - Simulate different system regions and languages. 🪟 🟢
-* [SwiftBar](https://swiftbar.app) - Menu bar customization tool that turns script output into macOS menu bar items. 🍎 [🟢](https://github.com/swiftbar/SwiftBar) ⭐ 4,445 | 🐛 9 | 🌐 Swift | 📅 2026-08-15
-* [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,369 | 🐛 24 | 🌐 Rust | 📅 2026-08-17 - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
+* [SwiftBar](https://swiftbar.app) - Menu bar customization tool that turns script output into macOS menu bar items. 🍎 [🟢](https://github.com/swiftbar/SwiftBar) ⭐ 4,446 | 🐛 9 | 🌐 Swift | 📅 2026-08-15
+* [CookCLI](https://github.com/cooklang/CookCLI) ⭐ 1,371 | 🐛 21 | 🌐 Rust | 📅 2026-08-23 - Recipe manager with web server, shopping lists, and meal planning. 🪟 🍎 🐧 🟢
 * [XQuartz](https://www.xquartz.org) - X.Org X Window System server for running X11 applications on macOS. 🍎 [🟢](https://github.com/XQuartz/XQuartz) ⭐ 1,059 | 🐛 31 | 🌐 Shell | 📅 2026-08-18
 * [Saga Reader](https://github.com/sopaco/saga-reader) ⭐ 534 | 🐛 4 | 🌐 Rust | 📅 2026-07-11 - Blazing-Fast AI Reader that supports sources based on search engines and RSS. 🪟 🍎 [🟢](https://github.com/sopaco/saga-reader) ⭐ 534 | 🐛 4 | 🌐 Rust | 📅 2026-07-11
 * [Keylock](https://github.com/Axorax/keylock) ⭐ 128 | 🐛 5 | 🌐 Python | 📅 2026-07-04 - Lock your keyboard with a click. 🪟 🟢
-* [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 [🟢](https://github.com/offyotto/Core-Monitor) ⭐ 104 | 🐛 5 | 🌐 Swift | 📅 2026-08-21
+* [Core-Monitor](https://offyotto.github.io/Core-Monitor/) - Apple Silicon system monitor showing CPU, GPU, memory, battery, power, temperatures, storage, and fan data with optional fan control. 🍎 [🟢](https://github.com/offyotto/Core-Monitor) ⭐ 106 | 🐛 5 | 🌐 Swift | 📅 2026-08-23
+* [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop) ⭐ 76 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-23
 * [Winpower](https://github.com/Axorax/winpower) ⭐ 74 | 🐛 0 | 🌐 Python | 📅 2024-10-30 - Advanced power settings and management for Windows. 🪟 🟢
-* [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Local AI suite for Mac: chat, image generation, dictation, and memory search, all on-device with no account. 🍎 [🟢](https://github.com/off-grid-ai/off-grid-ai-desktop) ⭐ 73 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-22
-* [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2026-08-21 - macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files, with disk analysis and app uninstallation. 🍎 🟢
-* [AI Dictation](https://aidictation.com) - Voice-to-text with configurable shortcuts, offline recognition on supported devices, and optional cloud transcription and cleanup. 🪟 🍎 [🟢](https://github.com/writingmate/aidictation) ⭐ 40 | 🐛 0 | 🌐 Swift | 📅 2026-08-19
+* [MacOSCleaner](https://github.com/AlexTkDev/MacOSCleaner) ⭐ 63 | 🐛 0 | 🌐 Swift | 📅 2026-08-23 - macOS utility for cleaning caches, temporary files, app leftovers, and duplicate files, with disk analysis and app uninstallation. 🍎 🟢
+* [AI Dictation](https://aidictation.com) - Voice-to-text with configurable shortcuts, offline recognition on supported devices, and optional cloud transcription and cleanup. 🪟 🍎 [🟢](https://github.com/writingmate/aidictation) ⭐ 40 | 🐛 0 | 🌐 Swift | 📅 2026-08-23
 * [Burrete](https://burrete-landing.vercel.app) - Molecular file workspace with Finder Quick Look previews, Mol\* 3D, and chemistry grids. 🍎 [🟢](https://github.com/SergeiNikolenko/Burrete) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-05
 * [KaiROS AI](https://github.com/avikeid2007/Kairos.local) ⭐ 20 | 🐛 23 | 🌐 C# | 📅 2026-06-27 - Local AI assistant with GPU acceleration and model catalog. 🪟 [🟢](https://github.com/avikeid2007/Kairos.local) ⭐ 20 | 🐛 23 | 🌐 C# | 📅 2026-06-27
 * [Abendrot](https://abendrot.app) - Menu bar screen warmer that cuts blue light on every display with a sunset-based schedule. 🍎 [🟢](https://github.com/matthewrball/abendrot) ⭐ 12 | 🐛 0 | 🌐 Swift | 📅 2026-08-22
@@ -738,10 +738,10 @@
 
 ### Clipboard Management
 
-* [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) ⭐ 7,325 | 🐛 101 | 🌐 Rust | 📅 2026-08-13 - Cross-platform modern clipboard management tool.  🪟 🍎 🐧 🟢
+* [EcoPaste](https://github.com/EcoPasteHub/EcoPaste) ⭐ 7,327 | 🐛 101 | 🌐 Rust | 📅 2026-08-13 - Cross-platform modern clipboard management tool.  🪟 🍎 🐧 🟢
 * [Qopy](https://github.com/0pandadev/qopy) ⭐ 395 | 🐛 23 | 🌐 Vue | 📅 2026-03-15 - Minimalist clipboard manager with unique features. 🪟 🍎 🐧 🟢
 * [Diodon](https://github.com/diodon-dev/diodon) ⭐ 358 | 🐛 1 | 🌐 Vala | 📅 2026-07-24 - Simple and minimal clipboard manager. 🐧 🟢
-* [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty) ⭐ 53 | 🐛 3 | 🌐 Swift | 📅 2026-08-12
+* [Pesty](https://www.moamenbasel.com/pesty/) - Native clipboard manager with a color-coded history strip, pinboards, instant search, and keyboard-driven pasting. 🍎 [🟢](https://github.com/momenbasel/pesty) ⭐ 55 | 🐛 19 | 🌐 Swift | 📅 2026-08-12
 * [SaneClip](https://saneclip.com) - Clipboard manager that keeps all history local with search and formatting tools. 🍎 [🟢](https://github.com/sane-apps/SaneClip) ⭐ 31 | 🐛 0 | 🌐 Swift | 📅 2026-08-07
 * [Beetroot](https://max.nardit.com/beetroot) - Clipboard manager with AI text transforms and OCR extraction. 🪟
 * [ClipAngel](https://sourceforge.net/projects/clip-angel) - Clipboard manager supporting rich text and images. 🪟
@@ -761,15 +761,15 @@
 
 ### Window Management
 
-* [FancyZones](https://github.com/microsoft/PowerToys) ⭐ 137,964 | 🐛 7,514 | 🌐 C | 📅 2026-08-22 - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
-* [Niri](https://github.com/niri-wm/niri) ⭐ 27,089 | 🐛 476 | 🌐 Rust | 📅 2026-08-21 - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
-* [Sway](https://github.com/swaywm/sway) ⭐ 17,258 | 🐛 1,377 | 🌐 C | 📅 2026-07-31 - Wayland-based tiling window manager, i3-like. 🐧 🟢
-* [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos) ⭐ 16,202 | 🐛 67 | 🌐 Swift | 📅 2026-08-19
-* [Komorebi](https://github.com/LGUG2Z/komorebi) ⭐ 15,046 | 🐛 98 | 🌐 Rust | 📅 2026-08-16 - Tiling window manager for Windows. 🪟 🟢
-* [GlazeWM](https://github.com/glzr-io/glazewm) ⭐ 12,646 | 🐛 401 | 🌐 Rust | 📅 2026-06-20 - Tiling window manager inspired by i3. 🪟 🟢
-* [i3](https://i3wm.org) - Keyboard-driven tiling window manager. 🐧 [🟢](https://github.com/i3/i3) ⭐ 10,548 | 🐛 375 | 🌐 C | 📅 2026-07-28
-* [YASB](https://github.com/amnweb/yasb) ⭐ 5,365 | 🐛 72 | 🌐 Python | 📅 2026-08-22 - Highly configurable Windows status bar. 🪟 🟢
-* [AltSnap](https://github.com/RamonUnch/AltSnap) ⭐ 5,147 | 🐛 129 | 🌐 C | 📅 2026-07-27 - Snap windows to positions using keyboard shortcuts. 🪟 🟢
+* [FancyZones](https://github.com/microsoft/PowerToys) ⭐ 138,007 | 🐛 7,521 | 🌐 C | 📅 2026-08-22 - Snap and arrange windows in multi-monitor setups. 🪟 🟢 ⭐
+* [Niri](https://github.com/niri-wm/niri) ⭐ 27,110 | 🐛 474 | 🌐 Rust | 📅 2026-08-21 - Scrollable-tiling Wayland compositor written in Rust. 🐧 🟢
+* [Sway](https://github.com/swaywm/sway) ⭐ 17,260 | 🐛 1,377 | 🌐 C | 📅 2026-07-31 - Wayland-based tiling window manager, i3-like. 🐧 🟢
+* [AltTab](https://alt-tab.app) - Window switcher that brings Windows-style alt-tab previews and controls to macOS. 🍎 [🟢](https://github.com/lwouis/alt-tab-macos) ⭐ 16,203 | 🐛 67 | 🌐 Swift | 📅 2026-08-19
+* [Komorebi](https://github.com/LGUG2Z/komorebi) ⭐ 15,055 | 🐛 94 | 🌐 Rust | 📅 2026-08-23 - Tiling window manager for Windows. 🪟 🟢
+* [GlazeWM](https://github.com/glzr-io/glazewm) ⭐ 12,652 | 🐛 401 | 🌐 Rust | 📅 2026-06-20 - Tiling window manager inspired by i3. 🪟 🟢
+* [i3](https://i3wm.org) - Keyboard-driven tiling window manager. 🐧 [🟢](https://github.com/i3/i3) ⭐ 10,549 | 🐛 374 | 🌐 C | 📅 2026-07-28
+* [YASB](https://github.com/amnweb/yasb) ⭐ 5,371 | 🐛 73 | 🌐 Python | 📅 2026-08-23 - Highly configurable Windows status bar. 🪟 🟢
+* [AltSnap](https://github.com/RamonUnch/AltSnap) ⭐ 5,151 | 🐛 130 | 🌐 C | 📅 2026-07-27 - Snap windows to positions using keyboard shortcuts. 🪟 🟢
 * [OnTopReplica](https://github.com/LorenzCK/OnTopReplica) ⭐ 3,377 | 🐛 141 | 🌐 C# | 📅 2023-07-05 - Display part of a window on top of others. 🪟 🟢
 * [Rectangle](https://rectangleapp.com) - Efficient window manager with keyboard shortcut support. 🍎 ⭐
 * [AquaSnap](https://nurgo-software.com/products/aquasnap) - Window snapping, docking, and stretching features. 🪟
@@ -781,9 +781,9 @@
 
 ### File Management
 
-* [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files) ⭐ 44,706 | 🐛 462 | 🌐 C# | 📅 2026-08-21
-* [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,505 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21 - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,505 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21
-* [Cyberduck](https://cyberduck.io) - File transfer client for FTP, SFTP, WebDAV, S3, Azure, OneDrive, and other storage services. 🪟 🍎 [🟢](https://github.com/iterate-ch/cyberduck) ⭐ 4,704 | 🐛 505 | 🌐 Java | 📅 2026-08-21
+* [Files](https://files.community/download) - Modern file manager for easy file organization. 🪟 [🟢](https://github.com/files-community/Files) ⭐ 44,722 | 🐛 461 | 🌐 C# | 📅 2026-08-23
+* [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,504 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21 - Modern file manager with advanced features. 🪟 🐧 [🟢](https://github.com/aleksey-hoffman/sigma-file-manager) ⭐ 6,504 | 🐛 209 | 🌐 TypeScript | 📅 2026-08-21
+* [Cyberduck](https://cyberduck.io) - File transfer client for FTP, SFTP, WebDAV, S3, Azure, OneDrive, and other storage services. 🪟 🍎 [🟢](https://github.com/iterate-ch/cyberduck) ⭐ 4,705 | 🐛 505 | 🌐 Java | 📅 2026-08-21
 * [Everything](https://voidtools.com) - Fast file search tool indexing the entire file system. 🪟 ⭐
 * [Double Commander](https://doublecmd.sourceforge.io) - Dual-pane manager with built-in editor and advanced search. 🪟 🍎 🐧
 * [Far Manager](https://farmanager.com) - File and archive manager with advanced functionality. 🪟
@@ -796,16 +796,16 @@
 
 ### Application Management
 
-* [PureMac](https://github.com/momenbasel/PureMac) ⭐ 6,015 | 🐛 2 | 🌐 Swift | 📅 2026-08-21 - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
+* [PureMac](https://github.com/momenbasel/PureMac) ⭐ 6,037 | 🐛 2 | 🌐 Swift | 📅 2026-08-21 - macOS app manager and system cleaner for uninstalling apps, removing orphaned files, and cleaning caches. 🍎 🟢
 * [Dusty](https://github.com/yagcioglutoprak/dusty) ⭐ 68 | 🐛 6 | 🌐 Swift | 📅 2026-07-26 - macOS menu bar cleaner for reclaiming space from safe caches, logs, and developer artifacts. 🍎 🟢
 * [Bulk Crap Uninstaller](https://www.bcuninstaller.com) - Powerful tool for uninstalling multiple applications and cleaning leftovers. 🪟 🟢 ⭐
 * [Revo Uninstaller](https://www.revouninstaller.com/revo-uninstaller-free-download) - Advanced uninstaller to remove programs and residual files with free tier. 🪟
 
 ### Screenshot
 
-* [Flameshot](https://flameshot.org) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🪟 🍎 🐧 [🟢](https://github.com/flameshot-org/flameshot) ⭐ 30,670 | 🐛 710 | 🌐 C++ | 📅 2026-08-22
+* [Flameshot](https://flameshot.org) - Customizable screenshot tool with an easy-to-use interface and built-in editor. 🪟 🍎 🐧 [🟢](https://github.com/flameshot-org/flameshot) ⭐ 30,677 | 🐛 712 | 🌐 C++ | 📅 2026-08-22
 * [Capter](https://github.com/decipher3114/Capter) ⭐ 235 | 🐛 5 | 🌐 Rust | 📅 2026-08-09 - Super simple screenshot tool. 🪟 🍎 🟢
-* [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty) ⭐ 90 | 🐛 5 | 🌐 Swift | 📅 2026-08-22
+* [Keyty](https://keyty.app) - Keyboard and mouse visualizer that displays your keystrokes and clicks in real time for demos, recordings, and livestreams. 🍎 [🟢](https://github.com/keytyapp/Keyty) ⭐ 114 | 🐛 5 | 🌐 Swift | 📅 2026-08-23
 * [ShareX](https://getsharex.com) - Powerful screenshot and screen recording tool with advanced editing options. 🪟 🟢 ⭐
 * [Greenshot](https://getgreenshot.org) - Screenshot tool for Windows that allows capturing, annotating, and editing screenshots. 🪟 🟢
 * [Lightshot](https://app.prntscr.com/en/index.html) - Fast and intuitive screenshot tool that allows capturing and editing images instantly. 🪟 🍎
@@ -826,10 +826,10 @@
 
 ### Trackpad
 
-* [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos) ⭐ 21,217 | 🐛 395 | 🌐 Swift | 📅 2026-08-20
-* [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse) ⭐ 6,715 | 🐛 135 | 🌐 Swift | 📅 2026-08-11
-* [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ⭐ 231 | 🐛 17 | 🌐 Swift | 📅 2026-04-22
+* [Mos](https://mos.caldis.me) - Mouse utility for smooth scrolling and independent scroll direction settings on macOS. 🍎 [🟢](https://github.com/Caldis/Mos) ⭐ 21,226 | 🐛 395 | 🌐 Swift | 📅 2026-08-20
+* [LinearMouse](https://linearmouse.app) - Mouse and trackpad utility for pointer acceleration, scrolling, button mapping, and per-device settings. 🍎 [🟢](https://github.com/linearmouse/linearmouse) ⭐ 6,720 | 🐛 136 | 🌐 Swift | 📅 2026-08-11
+* [MiddleDrag](https://middledrag.app) - Three-finger trackpad gestures for middle-click and middle-drag on macOS. 🍎 [🟢](https://github.com/NullPointerDepressiveDisorder/MiddleDrag) ⭐ 232 | 🐛 17 | 🌐 Swift | 📅 2026-04-22
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
